@@ -1,6 +1,6 @@
 ---
 cover: .gitbook/assets/eeg_2021.jpg
-coverY: 69
+coverY: 76
 ---
 
 # Welcome !
