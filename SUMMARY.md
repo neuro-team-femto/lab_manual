@@ -1,7 +1,6 @@
 # Table of contents
 
 * [Welcome !](README.md)
-* [Being a Lab Member](being-a-lab-member.md)
 
 ## About this manual
 
@@ -28,19 +27,19 @@
 
 ## Being a lab member
 
-* [Roles and expectations](being-a-lab-member-1/roles-and-expectations.md)
-* [Career Development](being-a-lab-member-1/career-development.md)
-* [How We Do Things](being-a-lab-member-1/how-we-do-things/README.md)
-  * [Time management](being-a-lab-member-1/how-we-do-things/time-management.md)
-  * [Communication](being-a-lab-member-1/how-we-do-things/communication.md)
-  * [Life in the lab](being-a-lab-member-1/how-we-do-things/life-in-the-lab.md)
-  * [Taking guests](being-a-lab-member-1/how-we-do-things/taking-guests.md)
-* [Maintaining Health and Safety](being-a-lab-member-1/maintaining-health-and-safety/README.md)
-  * [Health & Safety](being-a-lab-member-1/maintaining-health-and-safety/health-and-safety.md)
-  * [Caring about Happy Lab Life](being-a-lab-member-1/maintaining-health-and-safety/caring-about-happy-lab-life.md)
-* [Leaving the Lab](being-a-lab-member-1/leaving-the-lab/README.md)
-  * [Who to contact and when](being-a-lab-member-1/leaving-the-lab/who-to-contact-and-when.md)
-  * [Update/Revoke Access](being-a-lab-member-1/leaving-the-lab/update-revoke-access.md)
-  * [Requesting Letters of Recommendation](being-a-lab-member-1/leaving-the-lab/requesting-letters-of-recommendation.md)
-  * [Future steps](being-a-lab-member-1/leaving-the-lab/future-steps.md)
-  * [Keeping contact with ex-members](being-a-lab-member-1/leaving-the-lab/keeping-contact-with-ex-members.md)
+* [Roles and expectations](being-a-lab-member/roles-and-expectations.md)
+* [Career Development](being-a-lab-member/career-development.md)
+* [How We Do Things](being-a-lab-member/how-we-do-things/README.md)
+  * [Time management](being-a-lab-member/how-we-do-things/time-management.md)
+  * [Communication](being-a-lab-member/how-we-do-things/communication.md)
+  * [Life in the lab](being-a-lab-member/how-we-do-things/life-in-the-lab.md)
+  * [Taking guests](being-a-lab-member/how-we-do-things/taking-guests.md)
+* [Maintaining Health and Safety](being-a-lab-member/maintaining-health-and-safety/README.md)
+  * [Health & Safety](being-a-lab-member/maintaining-health-and-safety/health-and-safety.md)
+  * [Caring about Happy Lab Life](being-a-lab-member/maintaining-health-and-safety/caring-about-happy-lab-life.md)
+* [Leaving the Lab](being-a-lab-member/leaving-the-lab/README.md)
+  * [Who to contact and when](being-a-lab-member/leaving-the-lab/who-to-contact-and-when.md)
+  * [Update/Revoke Access](being-a-lab-member/leaving-the-lab/update-revoke-access.md)
+  * [Requesting Letters of Recommendation](being-a-lab-member/leaving-the-lab/requesting-letters-of-recommendation.md)
+  * [Future steps](being-a-lab-member/leaving-the-lab/future-steps.md)
+  * [Keeping contact with ex-members](being-a-lab-member/leaving-the-lab/keeping-contact-with-ex-members.md)

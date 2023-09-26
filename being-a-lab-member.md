@@ -1,2 +1,0 @@
-# Being a Lab Member
-
