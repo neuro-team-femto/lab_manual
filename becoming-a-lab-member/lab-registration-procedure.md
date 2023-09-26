@@ -22,6 +22,14 @@ Your finalized account will typically take about 24hours to propagate through th
 
 ## Obtain an ENSMM or UFC email account
 
+The default Uniweb registration will not typically issue you additional access to the Supmicrotech/ENSMM or UFC (Université de Franche-Comté) webservices but depending on your status, you may be able to get that (and you should). 
+
+<mark style="background-color:yellow;">Describe procedure for getting ENSMM email account.</mark>) 
+
+ENSMM web account (in the form first name initials + first 6 letters of family name, ex. jjaucout@ens2m.fr) will get you access to the eduroam WIFI (which is considered a local network for access to e.g. restricted FEMTO webservices), the ENSMM web services (https://ent.ens2m.fr, ENT for _Espace Numérique de Travail_) and the possibility to log on any ENSMM computer labs (which is important for running some of our experiments, see <mark style="background-color:yellow;">page</mark>). 
+
+
+
 
 
 
