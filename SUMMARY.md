@@ -16,13 +16,14 @@
 * [Lab philosophy/values](about-the-lab/lab-philosophy-values.md)
 * [Lab history](about-the-lab/lab-history.md)
 * [Lab space](about-the-lab/lab-space.md)
+* [About the team, dept and institute](about-the-lab/about-the-team-dept-and-institute.md)
 * [Ethical code of conduct](about-the-lab/ethical-code-of-conduct.md)
 
 ## Becoming a lab member
 
-* [Online accounts](becoming-a-lab-member/online-accounts.md)
+* [Lab registration procedure](becoming-a-lab-member/lab-registration-procedure.md)
 * [Skills updating](becoming-a-lab-member/skills-updating.md)
-* [Using internal resources](becoming-a-lab-member/using-internal-resources.md)
+* [FEMTO-ST Web services](becoming-a-lab-member/femto-st-web-services.md)
 * [Using external resources](becoming-a-lab-member/using-external-resources.md)
 
 ## Being a lab member
