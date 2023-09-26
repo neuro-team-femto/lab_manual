@@ -4,7 +4,7 @@ description: >-
   first arrive in FEMTO.
 ---
 
-# Lab registration procedure
+# FEMTO registration procedure
 
 ## Creating a FEMTO account
 
@@ -20,7 +20,7 @@ This step needs to be done on the local network, so either use eduroam wifi if y
 
 Your finalized account will typically take about 24hours to propagate through the system to access all web services, but for testing purposes [https://cloud.femto-st.fr](https://cloud.femto-st.fr) should work immediately <mark style="background-color:yellow;">(Double-Check if correct)</mark>.
 
-## Obtain an ENSMM account
+## Get an ENSMM account
 
 By default, your Uniweb registration should trigger an email giving you access to the ENSMM web services, to be received on your newly created @femto-st.fr email. If you don't receive this email for any reason, you can go to the ENSMM Service Informatique (in Bâtiment Transfert, close to the Transfert#é meeting room, room 0.73.16) and they will set it up for you.&#x20;
 
@@ -30,7 +30,7 @@ Your ENSMM web account (in the form first name initials + first 6 letters of fam
 The reason you can't use your FEMTO account to log in eduroam is that eduroam only works with/for degree granting higher-education institutions. FEMTO is a lab, and not a university. ENSMM and Université de Franche-Comté (UFC) both are, and so both can be used with eduroam.  &#x20;
 {% endhint %}
 
-## Obtain an UFC email account
+## Get a UFC email account
 
 Registering to uniweb will _not_ issue you a UFC (Université de Franche-Comté) web account. This has to be done separately.&#x20;
 
@@ -46,8 +46,8 @@ Setting up a VPN account needs a request to the FEMTO computer services (Service
 
 Upon registration, please inform our two admins Isabelle and Estelle that you'll be working in room 0.60.20 ("Neuro lab"), and that you'll need a key for this door, as well as door 0.60.21.&#x20;
 
-You also need an access card to enter either the ENSMM front entrance, or the AS2M back door (in the space between the main hall and the Transfert building). When you arrive, you'll typically be given a temporary guest card, but you'll need to make sure you enter the process of being issued a permanent card (called Pass'UBFC, with an ID picture).&#x20;
+You also need an access card to enter either the ENSMM front entrance, or the AS2M back door (in the space between the main hall and the Transfert building). When you arrive, you'll typically be given a temporary guest card (ask for it), but you'll need to make sure you enter the process of being issued a permanent card (called Pass'UBFC, with an ID picture).&#x20;
 
-If you're a UFC student (eg. new PhD student), you'll be issued your card by UFC upon your PhD registration. If you're not a UFC employee, ask Isabelle or Estelle to apply for a card, and give them an ID picture. <mark style="background-color:yellow;">Double-check correct procedure</mark>
+If you're a UFC student (eg. new PhD student), you will be issued your card automatically by UFC upon your PhD registration. If you're not a UFC employee, ask Isabelle or Estelle to apply for a card, and give them an ID picture. <mark style="background-color:yellow;">Double-check correct procedure</mark>
 
 When you receive your card (you may receive a notification on your UFC webmail, if any), it should be set up with the correct building access (ENSMM). If it is not the case, and the card doesn't work, you need to ask the ENSMM front desk to configure it correctly (there are update terminals in the ENSMM Hall where you can tag your card). <mark style="background-color:yellow;">Correct procedure for getting card setup properly</mark>&#x20;
