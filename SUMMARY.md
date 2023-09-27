@@ -16,6 +16,7 @@
 * [Lab history](about-the-lab/lab-history.md)
 * [Lab space](about-the-lab/lab-space.md)
 * [About the team, dept and institute](about-the-lab/about-the-team-dept-and-institute.md)
+* [About our operating institutions](about-the-lab/about-our-operating-institutions.md)
 * [Ethical code of conduct](about-the-lab/ethical-code-of-conduct.md)
 
 ## Becoming a lab member

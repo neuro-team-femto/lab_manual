@@ -6,7 +6,7 @@ description: >-
 
 # FEMTO registration procedure
 
-## Creating a FEMTO account
+## Get a FEMTO account
 
 Your first step is to go and meet our two department administrators Isabelle GABET and Estelle PETITE (office <mark style="background-color:yellow;">XXX</mark>), who will manually input your information into our local FEMTO information system (called Uniweb).
 
@@ -20,9 +20,17 @@ This step needs to be done on the local network, so either use eduroam wifi if y
 
 Your finalized account will typically take about 24hours to propagate through the system to access all web services, but for testing purposes [https://cloud.femto-st.fr](https://cloud.femto-st.fr) should work immediately <mark style="background-color:yellow;">(Double-Check if correct)</mark>.
 
+## Get a CNRS (Janus) account
+
+If you're a CNRS employee (as most of us in the lab are), you will need a CNRS id to access important CNRS web services for e.g. handling vacation, travel to conferences, receive monthly records of your salary, etc.&#x20;
+
+By default, your FEMTO/uniweb registration should trigger your registration to CNRS within a week. This step is done by staff at the Délégation Régionale CNRS in Nancy (see [about-our-operating-institutions.md](../about-the-lab/about-our-operating-institutions.md "mention") ). Your cnrs id will be your @femto-st.fr email and password.&#x20;
+
+You can test that your account is working on janus.cnrs.fr, or any of the CNRS web services directly. If you don't get a working janus account within 1 week, please ask Isabelle or Estelle to enquire.&#x20;
+
 ## Get an ENSMM account
 
-By default, your Uniweb registration should trigger an email giving you access to the ENSMM web services, to be received on your newly created @femto-st.fr email. If you don't receive this email for any reason, you can go to the ENSMM Service Informatique (in Bâtiment Transfert, close to the Transfert#é meeting room, room 0.73.16) and they will set it up for you.&#x20;
+By default, your FEMTO/uniweb registration should also trigger an email giving you access to the ENSMM web services, to be received on your newly created @femto-st.fr email. If you don't receive this email for any reason, you can go to the ENSMM Service Informatique (in Bâtiment Transfert, close to the Transfert#é meeting room, room 0.73.16) and they will set it up for you.&#x20;
 
 Your ENSMM web account (in the form first name initials + first 6 letters of family name, ex. jjaucout@ens2m.fr) will get you access to both the eduroam WIFI (which is considered a local network for access to e.g. restricted FEMTO webservices) and the ENSMM\_Personnel WIFI, the ENSMM web services (https://ent.ens2m.fr, ENT for _Espace Numérique de Travail_) and the possibility to log on any ENSMM computer labs (which is important for running some of our experiments, see <mark style="background-color:yellow;">page</mark>).
 
