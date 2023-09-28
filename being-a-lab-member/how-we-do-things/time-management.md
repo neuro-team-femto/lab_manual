@@ -24,6 +24,12 @@ The lab has no mandatory vacation time, but our building closes down for one wee
 
 Because several faculty in the Dept. teach at ENSMM/Supmicrotech, and the ENSMM school year tends to align with the national school holidays (_vacances scolaires:_ vacances de Toussaint, 2 weeks end of October; vacances de Noel, 2 weeks end of Dec; vacances d'hiver, 2 weeks mid-February; vacances de Pâques/printemps, 2 weeks mid-April), you'll see the Dept. tend to get a little quiet on these periods. While many of us (incl. those with families) tend to align their own vacations with these periods, the lab will continue its normal operations throughout, albeit with maybe slightly less people around.&#x20;
 
+## Lab hours
+
+The standard 7-hour work day in the department is 9:30am-5:30pm with a one hour break for lunch.&#x20;
+
+You aren’t expected to come into lab on weekends and holidays, and you aren’t expected to stay late at night.&#x20;
+
 ## Absences/holidays
 
 #### General rules
@@ -66,6 +72,8 @@ You can declare maternity/paternity leave on the CNRS HR plateform [https://aria
 
 #### Compassionate leave
 
+<mark style="background-color:yellow;">Check procedure</mark>
+
 #### How to report leave
 
 Every absent state (holiday, sick leave, mission, teletravail) has to be reported at two places:&#x20;
@@ -75,14 +83,6 @@ Every absent state (holiday, sick leave, mission, teletravail) has to be reporte
 
 Note that declaring your holiday in AGATE-TEMPO needs to be done _ahead_ of time, as they require validation by someone higher up (typically the head of dept) and they cannot be declared after the day is passed
 
-## Lab hours
+##
 
-* Lab hours \[when to be in the lab for different roles; when is the lab room open]
-
-
-
-* Weekly/regular meetings \[time, place, purpose, journal club readings + link to schedule]
-* Dealing with deadlines \[how to plan the completion of deadlines, how to deal with delays]
-* In-lab and remote working norms \[when are members expected to work in the lab or how can they work from home]
-* Calendar usage \[who to share your calendar with, what to put in your calendar]
-* Social and special events \[if lab dinners/excursions/team-building/etc. is a part of lab life, or if it isn’t, mention it here, social events]
+&#x20;
