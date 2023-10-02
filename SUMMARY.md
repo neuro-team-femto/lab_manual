@@ -21,11 +21,11 @@
 
 ## Becoming a lab member
 
+* [⚠ Before you arrive: ZRR application](becoming-a-lab-member/before-you-arrive-zrr-application.md)
 * [FEMTO registration procedure](becoming-a-lab-member/lab-registration-procedure.md)
 * [Important lab accounts](becoming-a-lab-member/important-lab-accounts.md)
 * [Skills updating](becoming-a-lab-member/skills-updating.md)
 * [List of useful web services](becoming-a-lab-member/femto-st-web-services.md)
-* [Using external resources](becoming-a-lab-member/using-external-resources.md)
 
 ## Being a lab member
 
