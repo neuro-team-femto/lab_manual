@@ -30,7 +30,6 @@
 ## Being a lab member
 
 * [Roles and expectations](being-a-lab-member/roles-and-expectations.md)
-* [Career Development](being-a-lab-member/career-development.md)
 * [How We Do Things](being-a-lab-member/how-we-do-things/README.md)
   * [Time management](being-a-lab-member/how-we-do-things/time-management.md)
   * [Communication](being-a-lab-member/how-we-do-things/communication.md)

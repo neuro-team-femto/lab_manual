@@ -54,7 +54,11 @@ Setting up a VPN account needs a request to the FEMTO computer services (Service
 
 Upon registration, please inform our two admins Isabelle and Estelle that you'll be working in room 0.60.20 ("Neuro lab"), and that you'll need a key for this door, as well as door 0.60.21.&#x20;
 
-You also need an access card to enter either the ENSMM front entrance, or the AS2M back door (in the space between the main hall and the Transfert building). When you arrive, you'll typically be given a temporary guest card (ask for it), but you'll need to make sure you enter the process of being issued a permanent card (called Pass'UBFC, with an ID picture).&#x20;
+{% hint style="info" %}
+Lab keys belong to our host institution Supmicrotech/ENSMM. Our stock of keyrs is managed by our two dept. admins Isabelle and Estelle - when they are short of keys, they will request more to ENSMM. However, keys to other rooms than the lab (e.g. computer lab, etc.) should be requested directly to the ENSMM building services (Service Patrimoine) using the ticket service at [https://ent.ens2m.fr/fr/assistance/demande-d-intervention.html](https://ent.ens2m.fr/fr/assistance/demande-d-intervention.html). Ask your PI about it if needed.&#x20;
+{% endhint %}
+
+You also need an access card to enter either the ENSMM front entrance, or the AS2M back door (in the space between the main hall and the Transfert building). When you arrive, you'll typically be given a temporary guest card (ask for it - you may be requested a guarantee deposit in cash, ca. 20€, which you will be returned when you return the card), but you'll need to make sure you enter the process of being issued a permanent card (called Pass'UBFC, with an ID picture).&#x20;
 
 If you're a UFC student (eg. new PhD student), you will be issued your card automatically by UFC upon your PhD registration. If you're not a UFC employee, ask Isabelle or Estelle to apply for a card, and give them an ID picture. <mark style="background-color:yellow;">Double-check correct procedure</mark>
 
