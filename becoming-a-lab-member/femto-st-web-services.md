@@ -1,10 +1,10 @@
 ---
 description: >-
   This page lists and describes the web services that you get access to with a
-  FEMTO-ST account
+  FEMTO-ST/CNRS account
 ---
 
-# FEMTO-ST Web services
+# List of useful web services
 
 ## FEMTO-ST web services
 
@@ -18,10 +18,21 @@ This includes: :unlock:accessible from outside; :closed\_lock\_with\_key:accessi
 * :unlock:a calendar to make reservations for rooms or common ressources (note: we have a shared car) [https://booked.femto-st.fr](https://booked.femto-st.fr)
 * :lock:the ticket system to contact our administrative services, computer services or communication services [https://tickets.femto-st.fr/](https://tickets.femto-st.fr/)
 
+## CNRS web services
 
+If you're a CNRS employee (or you have a reseda/labintel account), you have access to the following services:&#x20;
 
+* Agate-tempo ([https://agate-tempo.cnrs.fr](https://agate-tempo.cnrs.fr/fr/)), the plateform at which you need to declare your holidays and remote-work (in advance)
+* Ariane (https://ariane.cnrs.fr), the plateform for reporting a sick leave, and communicating documents (related to family, etc.) to the CNRS HR services. Also there you'll have access to your salary slips in electronic format.&#x20;
+* Etamine ([https://etamine-connecte.cnrs.fr/infos](https://etamine-connecte.cnrs.fr/infos)) - the entry point for declaring travel to conferences ("missions"). Missions declared in Etamine are sent for approval to our dept admins Isabelle & Estelle, and are then transfered to...
+* Notilus ([https://esr-cnrs.notilus-inone.fr/#/Dashboard](https://esr-cnrs.notilus-inone.fr/#/Dashboard)) - the plateform for following up on upcoming, ongoing and terminated missions. Booking travel and hotels for missions can be initiated from Notilus and will connect you to...
+* Goelett ([https://travel.goelett.com](https://travel.goelett.com)) - the plateform to book tickets and hotels with CNRS rates. You can't normally access this directly, only via notilus.&#x20;
+* Zoom ([https://cnrs.zoom.us/](https://cnrs.zoom.us/)). CNRS has a corporate zoom account, which you can use to plan meetings
 
+## Renater
 
-## CNRS
+Renater ([https://www.renater.fr](https://www.renater.fr)) is a bundle of web services offered and maintained by French higher education institutions, and which you can access with your institutional account (ex. CNRS account). Our operating institutions encourage us to use Renater tools over private-sector alternatives (eg. Google drive, doodle, etc.) because this is non-profit and data-secure (also, it works pretty well TBH)
 
-cnrs.zoom.us/
+* Evento ([https://evento.renater.fr/](https://evento.renater.fr/)) is a Doodle-like tool for planning meetings
+* FileSender ([https://filesender.renater.fr/](https://filesender.renater.fr/)) is a Wetransfer-like service to share big files&#x20;
+* Renater also maintains the French infrastructure for eduroam ([https://eduroam.org/](https://eduroam.org/)), with which you get free Wifi at all higher-education in Europe (and, incidentally, in the lab, via your ENSMM/Supmicrotech account)

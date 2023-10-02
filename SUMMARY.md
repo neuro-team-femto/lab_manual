@@ -24,7 +24,7 @@
 * [FEMTO registration procedure](becoming-a-lab-member/lab-registration-procedure.md)
 * [Important lab accounts](becoming-a-lab-member/important-lab-accounts.md)
 * [Skills updating](becoming-a-lab-member/skills-updating.md)
-* [FEMTO-ST Web services](becoming-a-lab-member/femto-st-web-services.md)
+* [List of useful web services](becoming-a-lab-member/femto-st-web-services.md)
 * [Using external resources](becoming-a-lab-member/using-external-resources.md)
 
 ## Being a lab member
