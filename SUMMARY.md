@@ -33,6 +33,7 @@
 * [How We Do Things](being-a-lab-member/how-we-do-things/README.md)
   * [Time management](being-a-lab-member/how-we-do-things/time-management.md)
   * [Communication](being-a-lab-member/how-we-do-things/communication.md)
+  * [Printing](being-a-lab-member/how-we-do-things/printing.md)
   * [Life in the lab](being-a-lab-member/how-we-do-things/life-in-the-lab.md)
   * [Taking guests](being-a-lab-member/how-we-do-things/taking-guests.md)
 * [Maintaining Health and Safety](being-a-lab-member/maintaining-health-and-safety/README.md)
