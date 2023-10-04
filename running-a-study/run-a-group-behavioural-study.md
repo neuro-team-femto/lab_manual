@@ -6,7 +6,44 @@ description: >-
 
 # Run a group behavioural study
 
-<mark style="background-color:yellow;">@rudradeep: can you update ?</mark>&#x20;
+### For experimenter:
+
+1. Make sure your experiment directory structure is the following:
+
+```
+|-- my_experiment
+    |-- experiment
+	    |-- experiment.py
+	    |-- data
+    |-- libs
+```
+
+2. Log in to the machine with your ens2m.fr id
+3. Copy the `my_experiment` folder into `Partage Enseignements/Neuro/`
+4.  Run:
+
+    ```sh
+    cd path/to/my_experiment
+    pip install -t ./libs/ psychopy
+    ```
+5.  At the top of the experiment script, add the following lines:
+
+    ```python
+    import sys
+    sys.path.append(../libs) 
+    ```
+6.  In `my_experiment/experiment/` create a `run.bat` file with the following:
+
+    ```
+    @echo off
+    python ./experiment.py %*
+    ```
+
+### For participant:
+
+1. Log in with ens2m.fr id
+2. Copy `my_experiment` folder from `Partage Enseignements/Neuro` to `Desktop/` (takes a few minutes)
+3. Run `run.bat`
 
 
 
