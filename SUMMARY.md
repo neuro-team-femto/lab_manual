@@ -46,3 +46,7 @@
   * [Requesting Letters of Recommendation](being-a-lab-member/leaving-the-lab/requesting-letters-of-recommendation.md)
   * [Future steps](being-a-lab-member/leaving-the-lab/future-steps.md)
   * [Keeping contact with ex-members](being-a-lab-member/leaving-the-lab/keeping-contact-with-ex-members.md)
+
+## Running a study
+
+* [Run a group behavioural study](running-a-study/run-a-group-behavioural-study.md)
