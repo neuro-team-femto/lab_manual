@@ -5,6 +5,11 @@ site_name: Lab Manual, FEMTO Neuro Group
 theme:
   name: material
 
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+
 nav:
 
   - 'Welcome': 'index.md'
@@ -25,7 +30,7 @@ nav:
     - 'Ethical code of conduct': 'about-the-lab/ethical-code-of-conduct.md'
 
   - 'Becoming a lab member': 
-    - 'ZRR application' : 'becoming-a-lab-member/before-you-arrive-zrr-application.md'
+    - 'ZRR application' : 'becoming-a-lab-member/zrr-application.md'
     - 'FEMTO registration procedure' : 'becoming-a-lab-member/lab-registration-procedure.md'
     - 'Important lab accounts' : 'becoming-a-lab-member/important-lab-accounts.md'
     - 'Skills updating': 'becoming-a-lab-member/skills-updating.md'
