@@ -3,14 +3,14 @@
 
 
 
-# Printing A4-size in the lab 
+## Printing A4-size in the lab 
 
 
 <mark style="background-color:yellow;">AYNAZ: </mark> Add instructions how to print from the dept. printers. 
 
-# Printing posters for conferences
+## Printing posters for conferences
 
-## Printing using university services
+### Printing using university services
 
 If your poster is ready at least 3-4 days before your departure, you can use the University printing services ([Imprimerie UFC](https://www.univ-fcomte.fr/les-services-administratifs/imprimerie)]). Download the order form [here](../downloads/Formulaire_Imprimerie_UFC.pdf), fill in with details (ex. 1 A0 poster on textile), and send it along your poster pdf file at [imprimerie.ufc@univ-fcomte.fr](imprimerie.ufc@univ-fcomte.fr) and/or [suzy.nicot@univ-fcomte.fr](suzy.nicot@univ-fcomte.fr). 
 
@@ -18,7 +18,7 @@ To that email, cc. our Dept. admins Isabelle and/or Estelle to let them know if 
 
 Printing typically takes 2-3 days; in case of emergency, same-day printing can often be arranged but please contact the staff at Imprimerie directly to make sure it's possible (Suzy Nicot: 03.81.66.55.19)
 
-## Printing on conference site 
+### Printing on conference site 
 
 If you're a bit late, or don't want to carry on a poster while traveling, it is also possible to print onsite. 
 
