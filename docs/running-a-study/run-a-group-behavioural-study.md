@@ -6,7 +6,7 @@ description: >-
 
 # Run a group behavioural study
 
-### For experimenter:
+## For experimenter:
 
 1. Make sure your experiment directory structure is the following:
 
@@ -39,7 +39,7 @@ description: >-
     python ./experiment.py %*
     ```
 
-### For participant:
+## For participant:
 
 1. Log in with ens2m.fr id
 2. Copy `my_experiment` folder from `Partage Enseignements/Neuro` to `Desktop/` (takes a few minutes)
