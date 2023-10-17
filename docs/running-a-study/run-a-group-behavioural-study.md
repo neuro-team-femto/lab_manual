@@ -10,29 +10,33 @@ description: >-
 
 1. Make sure your experiment directory structure is the following:
 
-```
-|-- my_experiment
+    ```
+    |-- my_experiment
     |-- experiment
 	    |-- experiment.py
 	    |-- data
     |-- libs
-```
+    ```
 
-2. Log in to the machine with your ens2m.fr id
-3. Copy the `my_experiment` folder into `Partage Enseignements/Neuro/`
-4.  Run:
+1. Log in to the machine with your ens2m.fr id
+
+1. Copy the `my_experiment` folder into `Partage Enseignements/Neuro/`
+
+1.  Run:
 
     ```sh
     cd path/to/my_experiment
     pip install -t ./libs/ psychopy
     ```
-5.  At the top of the experiment script, add the following lines:
+
+1.  At the top of the experiment script, add the following lines:
 
     ```python
     import sys
     sys.path.append(../libs) 
     ```
-6.  In `my_experiment/experiment/` create a `run.bat` file with the following:
+
+1.  In `my_experiment/experiment/` create a `run.bat` file with the following:
 
     ```
     @echo off
