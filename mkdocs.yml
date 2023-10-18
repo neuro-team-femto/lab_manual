@@ -4,6 +4,8 @@ site_name: Lab Manual, FEMTO Neuro Group
 
 theme:
   name: material
+  features:
+    - content.code.copy
 
 markdown_extensions:
   - attr_list
@@ -13,6 +15,13 @@ markdown_extensions:
   - admonition
   - pymdownx.details
   - pymdownx.superfences
+  - pymdownx.highlight:
+      anchor_linenums: true
+      line_spans: __span
+      pygments_lang_class: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+
 
 nav:
 
