@@ -12,7 +12,7 @@
 
 ### Printing using university services
 
-If your poster is ready at least 3-4 days before your departure, you can use the University printing services ([Imprimerie UFC](https://www.univ-fcomte.fr/les-services-administratifs/imprimerie)]). Download the order form [here](../../downloads/Formulaire_Imprimerie_UFC.pdf), fill in with details (ex. 1 A0 poster on textile), and send it along your poster pdf file at [imprimerie.ufc@univ-fcomte.fr](imprimerie.ufc@univ-fcomte.fr) and/or [suzy.nicot@univ-fcomte.fr](suzy.nicot@univ-fcomte.fr). 
+If your poster is ready at least 3-4 days before your departure, you can use the University printing services ([Imprimerie UFC](https://www.univ-fcomte.fr/les-services-administratifs/imprimerie)]). Download the order form [here](../../downloads/Formulaire_Imprimerie_UFC.pdf), fill in with details (ex. 1 A0 poster on textile), and send it along your poster pdf file at [imprimerie.ufc@univ-fcomte.fr](mailto:imprimerie.ufc@univ-fcomte.fr) and/or [suzy.nicot@univ-fcomte.fr](mailto:suzy.nicot@univ-fcomte.fr). 
 
 To that email, cc. our Dept. admins Isabelle and/or Estelle to let them know if the upcoming invoice and tell them on what credits this should be charged (ask your PI). 
 

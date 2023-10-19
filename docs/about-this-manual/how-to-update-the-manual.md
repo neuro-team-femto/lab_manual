@@ -78,9 +78,10 @@ If you have write permission to the master repository on the lab's [github page]
 
 1. Navigate to the page you'd like to change on the lab's [repository page](https://github.com/neuro-team-femto/lab_manual), e.g. for this page [https://github.com/neuro-team-femto/lab_manual/blob/main/docs/about-this-manual/how-to-update-the-manual.md](https://github.com/neuro-team-femto/lab_manual/blob/main/docs/about-this-manual/how-to-update-the-manual.md)
 
-2. Clone the [lab_manual](https://github.com/neuro-team-femto/lab_manual) repository to your local computer, e.g. at `c:/work/lab_manual`
+	!!! tip
+		You can open the github page for any specific page in the manual by clicking on the pencil-shape edit icon next to the page title (scroll up). 
 
-3. Click the edit button on the top right corner of the page
+2. Click the pencil-shape edit button on the top right corner of the github page
 
 4. Make your changes, enter a commit message that describes what change you did, and click commit
 

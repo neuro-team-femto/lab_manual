@@ -3,7 +3,7 @@
 
 ## Setting up for a one-to-one zoom meeting 
 
-If you need to meet with someone on zoom, note that CNRS offers a corporate zoom account, with no limitation of duration for meetings. Simply log in to [cnrs.zoom.us](cnrs.zoom.us) using your CNRS (Janus) ID, and zoom away. 
+If you need to meet with someone on zoom, note that CNRS offers a corporate zoom account, with no limitation of duration for meetings. Simply log in to [cnrs.zoom.us](https://cnrs.zoom.us) using your CNRS (Janus) ID, and zoom away. 
 
 
 ## Setting up for café neuro, or a group zoom talk on the lab's TV screen.
@@ -38,18 +38,19 @@ The set-up should already be wired up, but in case one needs to do it again:
 
 2. find the zoom link. Two easy options: 
 	- if you're a participant and someone else's the host, start Slack and grab the Zoom link (Slack should be already connected to JJ's account, if not you can log in yourself <mark style="background-color:yellow;">add a dedicated slack user</mark>). 
-	- if you're the host, connect to [cnrs.zoom.us](cnrs.zoom.us) using the CNRS (Janus) ID of the person who created the link, and start the meeting. 
+	- if you're the host, connect to [cnrs.zoom.us](https://cnrs.zoom.us) using the CNRS (Janus) ID of the person who created the link, and start the meeting. 
 
-	!!! note "Recurrent zoom link for Cafe-Neuro"
+	!!! question "Where's the zoom link for Cafe-Neuro ?"
 		We have set a recurrent Café Neuro Zoom link, which is pinned to the #cafe-neuro channel in Slack. If it expires, please unpin the old link, create a new one (see [above](#setting-up-for-a-one-to-one-zoom-meeting)), post it in the #cafe-neuro channel, and pin it. 
 
-3. clicking on the link from should start zoom. If someone else's the host, they'll need to authorize access from the waiting room. 
+3. clicking on the link should start zoom. If someone else's the host, they'll need to authorize access from the waiting room. 
 
 4. verify that the mac mini is broadcasting the view from the Logitech camera (should be the case by default, as it's the only camera) and using the Logitech microphone as sound input (same). Use the TV loudspeaker system (HDMI) as audio output (recommended for better sound). 
 
 5. ask the speaker (either in-room or remote) to join the same zoom meeting from their own computer, and screen-share their slides. If the speaker is in the same room (as the case e.g. for a café neuro presented from Besançon), the speaker should mute their microphone (from Zoom) and their loudspeaker (from PC). 
 
-If all works correctly, the speaker's slide share should appear on TV, and the speaker should see the audiovisual stream from the room. If in the room, their voice will be picked up from the Logitech microphone, as everyone else's. 
+!!! success "If all works correctly,"
+	The speaker's slide share should appear on TV, and the speaker should see the audiovisual stream from the room. If in the room, their voice will be picked up from the Logitech microphone, as everyone else's. 
 
 
 <mark style="background-color:yellow;">Test, and double-check that this works</mark>
@@ -69,7 +70,11 @@ If someone needs to display their presentation on the lab's TV, without needing 
 
 1. Connect the presenter's computer to one of the two <mark style="background-color:yellow;">whatsitsname</mark> client via USB-C
 
-The computer's screen and sound should be mirrored to the TV. 
+2. Start the TV and navigate to the right HDMI input. 
+
+!!! success "If all works correctly,"
+	The computer's screen and sound should appear on the TV. 
+
 
 
 
