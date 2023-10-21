@@ -2,7 +2,7 @@
 
 ## The FEMTO Neuro Group (2021\~)
 
-The neuro group was established in the FEMTO-ST Institute by PI JJ Aucouturier in Jan. 2021. The group moved from its previous installment as the [CREAM music neuroscience team](http://cream.ircam.fr/) (2014-2020) at the [Science and Technology of Music and Sound Lab](https://www.stms-lab.fr/) (STMS, IRCAM/CNRS/Sorbonne Université) in [IRCAM](https://www.ircam.fr/), Paris, France.&#x20;
+The neuro group was established in the FEMTO-ST Institute by PIs JJ Aucouturier and Patrick Nectoux in Jan. 2021. The group moved from its previous installment as the [CREAM music neuroscience team](http://cream.ircam.fr/) (2014-2020) at the [Science and Technology of Music and Sound Lab](https://www.stms-lab.fr/) (STMS, IRCAM/CNRS/Sorbonne Université) in [IRCAM](https://www.ircam.fr/), Paris, France.&#x20;
 
 
 
