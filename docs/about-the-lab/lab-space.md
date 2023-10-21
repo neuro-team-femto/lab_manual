@@ -1,3 +1,9 @@
+---
+icon: fontawesome/solid/hourglass-half
+
+---
+
+
 # Lab space
 
 * Contact information \[physical address; email address; website etc.]

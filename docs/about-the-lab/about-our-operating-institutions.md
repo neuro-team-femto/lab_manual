@@ -1,8 +1,8 @@
 ---
-description: >-
-  This page gives information about the Institutes' operating institutions,
-  which handle our research budget.
+icon: fontawesome/solid/hourglass-half
+
 ---
+
 
 # About our operating institutions
 

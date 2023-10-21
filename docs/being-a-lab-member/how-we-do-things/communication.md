@@ -1,3 +1,8 @@
+---
+icon: fontawesome/solid/hourglass-half
+
+---
+
 # Communication
 
 ### Slack & work-life balance&#x20;

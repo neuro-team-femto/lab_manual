@@ -1,2 +1,0 @@
-# Ethical code of conduct
-
