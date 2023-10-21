@@ -1,6 +1,6 @@
 # Why we use a lab manual
 
-## The key to a happy lab life is in the manual
+## "The key to a happy lab life is in the manual"
 
 The purpose of this manual is to gather basic information about the lab and the procedures we follow. 
 
