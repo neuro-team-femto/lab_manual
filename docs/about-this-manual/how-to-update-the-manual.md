@@ -26,7 +26,10 @@ If you have any comments or suggestions regarding the contents of this manual, u
 
 ### Second, make your change
 
-This manual is written in the [materials for mkdocs](https://squidfunk.github.io/mkdocs-material/) framework, and hosted as a repository on the lab's [github page](https://github.com/neuro-team-femto). Materials for mkdocs is a simple framework for writing online documentation, in which every file is simply written in [Markdown](https://en.wikipedia.org/wiki/Markdown). Every page in this manual is stored as a single .md file in the [lab_manual](https://github.com/neuro-team-femto/lab_manual) repository. 
+This manual is written in the [materials for mkdocs](https://squidfunk.github.io/mkdocs-material/) framework, and is hosted as a repository on the lab's [github page](https://github.com/neuro-team-femto). Materials for mkdocs is a simple framework for writing online documentation, in which every file is simply written in [Markdown](https://en.wikipedia.org/wiki/Markdown). Every page in this manual is stored as a single .md file in the [lab_manual](https://github.com/neuro-team-femto/lab_manual) repository.
+
+!!! hint
+	Mkdocs-material has a lot of fancy formatting options (like this box, called an admonission). See [this page](https://squidfunk.github.io/mkdocs-material/reference) for reference.  
 
 This means that, in the most simple instance, updating this manual simply requires you to edit the corresponding page with your favorite text editor, and then either create a pull request or push the new change to the repository, via your preferred git method. 
 

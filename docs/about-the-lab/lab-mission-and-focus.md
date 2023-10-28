@@ -1,8 +1,8 @@
 # Lab mission & focus
 
-## Mission 
+The [FEMTO Neuro Group](https://neuro-team-femto.github.io) is a research group of the [Dept. of Automation and Robotics](https://www.femto-st.fr/en/Research-departments/AS2M/Presentation), [FEMTO-ST Institute](https://www.femto-st.fr/en) in Besançon, France, co-operated with a remote team in two Paris hospitals (Hôpital Pitié Salpêtrière and GHU Paris Psychiatrie et Neurosciences). 
 
-The [FEMTO Neuro Group](https://neuro-team-femto.github.io) is a research group of the [Dept. of Automation and Robotics](https://www.femto-st.fr/en/Research-departments/AS2M/Presentation), [FEMTO-ST Institute](https://www.femto-st.fr/en) in Besançon, France, colocated with a remote team in two Paris hospitals (Hôpital Pitié Salpêtrière and GHU Paris Psychiatrie et Neurosciences). 
+## Mission 
 
 We’re an interdisciplinary group of scientists exploring [control-systems](https://en.wikipedia.org/wiki/Control\_theory) approaches to the analysis of human sensory electrophysiology.&#x20;
 
