@@ -24,7 +24,7 @@ In French academia however, these words have a different, and more formal, meani
 
 In short, if you want to speak fluent French academiclang, the Neuro _group_ is one of the 3 groups of the DATAPHM _team_, which is one of the 3 teams of the AS2M _Department_, which is one of the seven Department of "the lab" (the FEMTO-ST Institute). Internally, and in these pages, we may refer to the Neuro group as "the lab", but depending on context you may want to switch meaning. 
 
-!!! Note
+!!! Warning
 	For extra confusion, you may hear people (typically older members of the faculty) refer to the Department as "the lab" too. This is because the FEMTO-ST Institute was created reletively recently as the merger of several independent units (i.e. "labs" in the French meaning), one of which was the _Laboratoire d'Automatique de Besançon_ (LAB) which became the AS2M Dept. So Departments were previously independent "labs", which became "departments" when they joined what has now become "the lab", i.e. the FEMTO-ST Institute. That usage of the word "lab" to refer to the department is not encouraged (and tends to disappear anyways).  
 
 
