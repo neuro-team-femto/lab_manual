@@ -11,7 +11,6 @@ The FEMTO Neuro Group is located in the SUPMICROTECH building, [Dept. of Automat
 >  24 rue Alain Savary, <br>
 >  25000 Besançon, France <br>
 
-
 **Phone:** +33 (0)3 81 40 28 01 (Dept. Secretary Isabelle Gabet)
 
 **Email:** aucouturier@gmail.com (PI JJ Aucouturier)

@@ -24,20 +24,20 @@ The set-up should already be wired up, but in case one needs to do it again:
 
 5. connect the Logitech multimedia base USD port to another of the _mac mini_ USB ports (back panel) 
 
-6. connect the Logitech camera to the Logitech multimedia base (red cable, <mark style="background-color:yellow;">double check color</mark>)
+6. connect the Logitech camera to the Logitech multimedia base (blue cable)
 
-7. connect the Logitech microphone/loudspeaker to the Logitech multimedia base (blue cable, <mark style="background-color:yellow;">double check color</mark>)
+7. connect the Logitech microphone/loudspeaker to the Logitech multimedia base (red cable)
 
 8. connect the Logitech multimedia base DC input to the room DC
 
-<mark style="background-color:yellow;">Add a photograph with annotations</mark>
+==Add a photograph with annotations==
 
 ### Starting the zoom talk
 
 1. power up the _mac mini_. *User:* neuro-xp. *Password:* neuro-xp
 
 2. find the zoom link. Two easy options: 
-	- if you're a participant and someone else's the host, start Slack and grab the Zoom link (Slack should be already connected to JJ's account, if not you can log in yourself <mark style="background-color:yellow;">add a dedicated slack user</mark>). 
+	- if you're a participant and someone else's the host, start Slack and grab the Zoom link (Slack should be already connected to JJ's account, if not you can log in yourself ==add a dedicated slack user==). 
 	- if you're the host, connect to [cnrs.zoom.us](https://cnrs.zoom.us) using the CNRS (Janus) ID of the person who created the link, and start the meeting. 
 
 	!!! question "Where's the zoom link for Cafe-Neuro ?"
@@ -53,22 +53,22 @@ The set-up should already be wired up, but in case one needs to do it again:
 	The speaker's slide share should appear on TV, and the speaker should see the audiovisual stream from the room. If in the room, their voice will be picked up from the Logitech microphone, as everyone else's. 
 
 
-<mark style="background-color:yellow;">Test, and double-check that this works</mark>
+==Test, and double-check that this works==
 
 ## Setting up a non-zoom presentation
 
-If someone needs to display their presentation on the lab's TV, without needing to share the presentation on zoom (e.g. an invited speaker, or an impromptu brainstorm), the presenter can simply use the <mark style="background-color:yellow;">whatsitsname</mark> wireless connection system. 
+If someone needs to display their presentation on the lab's TV, without needing to share the presentation on zoom (e.g. an invited speaker, or an impromptu brainstorm), the presenter can simply use the ==whatsitsname== wireless connection system. 
 
 ### Connectics
 
-1. Connect the TV to the <mark style="background-color:yellow;">whatsitsname</mark> antenna/hub via HDMI 
-2. Connect the <mark style="background-color:yellow;">whatsitsname</mark> hub DC input to the room DC.
+1. Connect the TV to the ==whatsitsname== antenna/hub via HDMI 
+2. Connect the ==whatsitsname== hub DC input to the room DC.
 
-<mark style="background-color:yellow;">Add a photograph with annotations</mark>
+==Add a photograph with annotations==
 
 ### Starting the presentation 
 
-1. Connect the presenter's computer to one of the two <mark style="background-color:yellow;">whatsitsname</mark> client via USB-C
+1. Connect the presenter's computer to one of the two ==whatsitsname== client via USB-C
 
 2. Start the TV and navigate to the right HDMI input. 
 

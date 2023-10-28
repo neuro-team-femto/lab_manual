@@ -89,14 +89,17 @@ nav:
     - 'Maintaining Health and Safety': 
       - 'Health & Safety' : 'being-a-lab-member/maintaining-health-and-safety/health-and-safety.md'
       - 'Caring about Happy Lab Life': 'being-a-lab-member/maintaining-health-and-safety/caring-about-happy-lab-life.md'
-    - 'Leaving the Lab' :
-      - 'Who to contact and when' : 'being-a-lab-member/leaving-the-lab/who-to-contact-and-when.md'
-      - 'Update/Revoke Access' : 'being-a-lab-member/leaving-the-lab/update-revoke-access.md'
-      - 'Requesting Letters of Recommendation' : 'being-a-lab-member/leaving-the-lab/requesting-letters-of-recommendation.md'
-      - 'Future steps' : 'being-a-lab-member/leaving-the-lab/future-steps.md'
-      - 'Keeping contact with ex-members' : 'being-a-lab-member/leaving-the-lab/keeping-contact-with-ex-members.md'
+  
   - 'Running a study': 
-    - 'Run a group behavioural study' : 'running-a-study/run-a-group-behavioural-study.md'
-    - 'Run an online study': 'running-a-study/run-an-online-study.md'
-    - 'Run an EEG study in the lab': 'running-a-study/run-an-EEG-study.md'
+      - 'Run a group behavioural study' : 'running-a-study/run-a-group-behavioural-study.md'
+      - 'Run an online study': 'running-a-study/run-an-online-study.md'
+      - 'Run an EEG study in the lab': 'running-a-study/run-an-EEG-study.md'
+  
+  - 'Leaving the Lab' :
+      - 'Who to contact and when' : 'leaving-the-lab/who-to-contact-and-when.md'
+      - 'Update/Revoke Access' : 'leaving-the-lab/update-revoke-access.md'
+      - 'Requesting Letters of Recommendation' : 'leaving-the-lab/requesting-letters-of-recommendation.md'
+      - 'Future steps' : 'leaving-the-lab/future-steps.md'
+      - 'Keeping contact with ex-members' : 'leaving-the-lab/keeping-contact-with-ex-members.md'
+  
 

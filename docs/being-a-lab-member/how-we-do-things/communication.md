@@ -3,7 +3,7 @@
 
 ## Slack 
 
-All of our lab communication goes through our dedicated Slack workspace (https://neuro-group-femto.slack.com), and not by email (see [this page](../../../becoming-a-lab-member/important-lab-accounts/) for how to install and get a Slack account). 
+All of our lab communication goes through our dedicated [Slack workspace](https://neuro-group-femto.slack.com), and not by email (see [this page](../../../becoming-a-lab-member/important-lab-accounts/) for how to install and get a Slack account). 
 
 We have a number of good practices on how to use Slack: 
 

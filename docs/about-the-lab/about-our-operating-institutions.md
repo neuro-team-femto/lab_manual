@@ -9,8 +9,8 @@ The FEMTO-ST Institute is our main administrative entity, which is in French aca
 The reason UMRs are called _"mixed"_ is that they are typically co-operated by several different institutions. In our case, the FEMTO-ST Institute is co-operated by [Centre National de la Recherche Scientifique](https://www.cnrs.fr) (CNRS), [Université de Franche-Comté](https://www.univ-fcomte.fr/)(UFC), l'[Ecole Nationale Supérieure de Mécanique et des Microtechniques](https://www.supmicrotech.fr)(SUPMICROTECH) and l'[Université de Technologie de Belfort-Montbéliard](https://www.utbm.fr) (UTBM). In French, such co-operating institutions are called the _tutelles_ (or _co-tutelles_) of the UMR. 
 
 !!! Note "Affiliations in papers"
-	This co-tutelle situation is reflected in how we should affiliate ourselves in research papers: 
 
+	This co-tutelle situation is reflected in how we should affiliate ourselves in research papers: 
 	Université de Franche-Comté, SUPMICROTECH, CNRS, institut FEMTO-ST, F-25000 Besançon, France
 
 ## Getting stuff done in UMRs
