@@ -72,12 +72,28 @@ Neuro group PIs JJA and PN are both tenured CNRS employees. JJA is _directeur de
 
 All CNRS employees have the status of civil servants and are part of the public service (see also [open science](../lab-philosophy-values/#open-science)). 
 
+## About our other tutelles
+
+### Université de Franche-Comté (UFC)
+
+The [University of Franche-Comté](https://www.univ-fcomte.fr/) (UFC) is a public French university located in Besançon, Franche-Comté, with decentralized campuses in Belfort, Montbéliard, Vesoul and Lons-le-Saunier. 
+
+UFC enrolls about 30,000 students, including nearly a third of scholarship students and about 15% foreign students. It is the host of 28 research labs, 667 PhD students and 788 research faculty. 
+
+The university was founded in 1423 in Dole, at that time in the Duchy of Burgundy. It was moved to Besançon in 1691 as Dole was being punished for having resisted too long against the king of France Louis XIV during his conquest of the region.
 
 
+### SUPMICROTECH/ENSMM
 
+The [École Nationale Supérieure de Mécanique et des Microtechniques](https://www.supmicrotech.fr) (SUPMICROTECH, previously ENSMM) is a French _Grande Ecole_ of engineering. It is part of Polyméca, a network of schools focusing on mechanical engineering, and is located in Besançon. 
 
+The school was founded in 1902 by the Université de Franche-Comté as _Laboratoire de Chronométrie_. In 1961, it turned to École nationale supérieure de chronométrie et micromécanique (ENSCM). Since the school is established in an area with a strong legacy on horology, ENSMM is deeply dedicated to the design and manufacturing of micro-mechanical devices and robotics.
 
+The school enrolls about 250 students every year, and has a 3 year curriculum covering Materials science, mechatronics, optoelectronics and industrial engineering. Students graduate with the equivalent of a M.Eng.  
 
+### UTBM
+
+The [University of Technology of Belfort-Montbéliard](https://www.utbm.fr) (UTBM) is, like SUPMICROTECH, a _Grande École_ of engineering located in Belfort, Sevenans and Montbéliard, France. UTBM is part of the network of the three "universities of technology", the other two being located in Compiegne and Troyes. 
 
 
 

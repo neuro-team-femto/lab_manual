@@ -32,7 +32,7 @@ In short, if you want to speak fluent French academiclang, the Neuro _group_ is 
 
 With more than 750 researchers, the [FEMTO-ST Institute](https://www.femto-st.fr) is the region's and one of the country's largest engineering CNRS lab, with expertise covering all fields of engineering and system science (check [this page](https://www.femto-st.fr/en/online-documents) for a yearly report of research highlights across the whole institute, if interested).
 
-The Institute is co-operated by [Centre National de la Recherche Scientifique](https://www.cnrs.fr) (CNRS), [Université de Franche-Comté](https://www.univ-fcomte.fr/)(UFC), l'[Ecole Nationale Supérieure de Mécanique et des Microtechniques](https://www.supmicrotech.fr)(SUPMICROTECH) and l'[Université de Technologie de Belfort-Montbéliard](https://www.utbm.fr) (UTBM) (see [this page](../about_our_operating_institutions/)) 
+The Institute is co-operated by [Centre National de la Recherche Scientifique](https://www.cnrs.fr) (CNRS), [Université de Franche-Comté](https://www.univ-fcomte.fr/)(UFC), l'[Ecole Nationale Supérieure de Mécanique et des Microtechniques](https://www.supmicrotech.fr)(SUPMICROTECH) and l'[Université de Technologie de Belfort-Montbéliard](https://www.utbm.fr) (UTBM) (see [this page](../about-our-operating-institutions)) 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ADETGBVilUw?si=gNMBz_4NzYkJ-yqZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 

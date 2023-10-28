@@ -1,5 +1,7 @@
 # Roles and expectations
 
+The goal of this section of the manual is to clarify our roles and expectations. We are an interdisciplinary, multicultural group with a big variety of backgrounds and academic experience, and it is sometimes unclear what is generally expected of a member in a lab such as ours, as well as what one can expect from the PI. 
+
 ## Big Picture
 
 Science is hard. But it’s also fun. In the Neuro group, we want to make sure that everyone experiences a positive, engaging, hostility-free, challenging, and rewarding lab environment. To maintain that environment, we expect each other to:
@@ -16,10 +18,10 @@ Science is hard. But it’s also fun. In the Neuro group, we want to make sure t
 
 There are a few day-to-day things to keep in mind to keep the lab running smoothly.
 
-* If you’re sick, stay home and take care of yourself. Because you need it, and also because others don’t need to get sick. If you’re sick, reschedule your meetings and participants for the day (or the next couple of days) as soon as you can. See a doctor and follow the procedure to report sick leave. <mark style="background-color:yellow;">Link to corresponding section</mark>
+* If you’re sick, stay home and take care of yourself. Because you need it, and also because others don’t need to get sick. If you’re sick, reschedule your meetings and participants for the day (or the next couple of days) as soon as you can. See a doctor and follow the procedure to report sick leave. ==Link to corresponding section==
 * By default, you are expected to the lab at the normal working hours every working day. You do not have to be in 9:30am-5:30pm every day but do show up for your commitments, and work the hours you need to work to get stuff done. Show up to your meetings, show up to run your participants, and show up to lab meetings. Show up for your work, and show up for each other too.
 * You aren’t expected to come into lab on weekends and holidays, and you aren’t expected to stay late at night.
-* If you're not in the lab any given day, you'll be assumed to be in one of four possible "states": (1) in annual leave/holiday, (2) in sick leave (or, by extension maternity/paternity leave or compassionate absence), (3) in official travel (mission), or (4) in official remote-work (teletravail). In all instances, you are expected to report which is the case, both to your PI (typically with a DM on Slack) and using your employer's absence reporting system. <mark style="background-color:yellow;">Link to corresponding section</mark>
+* If you're not in the lab any given day, you'll be assumed to be in one of four possible "states": (1) in annual leave/holiday, (2) in sick leave (or, by extension maternity/paternity leave or compassionate absence), (3) in official travel (mission), or (4) in official remote-work (teletravail). In all instances, you are expected to report which is the case, both to your PI (typically with a DM on Slack) and using your employer's absence reporting system. ==Link to corresponding section==
 * Make sure the door to the lab is locked if no one is inside. Turn off the lights if you’re the last one leaving for the day.
 * Keep the lab tidy. Eating in lab is fine, but clean up food waste, crumbs, spills. Put lab equipment back where you found it. Keep common areas uncluttered.
 * Dress code is casual but not too casual. When interacting with participants or presenting your work, don’t wear pajamas and sweat pants – but jeans are totally fine.
@@ -27,7 +29,7 @@ There are a few day-to-day things to keep in mind to keep the lab running smooth
 
 ## PhD Students
 
-All of the above, and you will also be expected to:
+As a PhD student in the group, you will be expected to:
 
 * Know the literature related to your topic like the back of your hand. Stay up to date on the latest research, by using RSS feeds and/or getting journal table of contents. Also consider following scientists in the field on Twitter. By the second-year of PhD, you are expected to know _more_ about your specific topic than your PI (more about the algorithms, about your data and results, about the people who work in the field, etc.)
 * Develop your dissertation research. Typically, your dissertation should have at least 3 substantial experiments that answer a big-picture question that you have.

@@ -1,10 +1,7 @@
----
-description: >-
-  This page describes the minimal accounts that everyone should set up when they
-  work in the neuro lab
----
 
 # Important lab accounts
+
+This page describes the minimal accounts that everyone should set up when they work in the neuro lab
 
 ## Slack
 
@@ -20,4 +17,5 @@ All of our research projects are hosted on our github organization page: [https:
 
 * get a (free) github account if you don't already have one ([https://github.com/join](https://github.com/join))
 * send your github account to jj so he can invite you to the neuro-team-femto organization; upon the invitation, you'll get a notification to join in your github dashboard, which you'll have to accept.&#x20;
-* get your computer setup with git: if you're a command-line person, you can simply install the git CL tool [https://git-scm.com/downloads](https://git-scm.com/downloads); if you like GUI better, you can install a variety of clients [https://git-scm.com/downloads/guis](https://git-scm.com/downloads/guis) - some of us have used the Github client in particular [https://desktop.github.com/](https://desktop.github.com/)
+* get your computer set up with git: if you're a command-line person, you can simply install the git CL tool [https://git-scm.com/downloads](https://git-scm.com/downloads); if you like GUI better, you can install a variety of clients [https://git-scm.com/downloads/guis](https://git-scm.com/downloads/guis) - some of us have used the Github client in particular [https://desktop.github.com/](https://desktop.github.com/)
+

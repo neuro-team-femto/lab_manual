@@ -4,12 +4,13 @@
 
 The FEMTO Neuro Group is located in the SUPMICROTECH building, [Dept. of Automation and Robotics](https://www.femto-st.fr/en/Research-departments/AS2M/Presentation), [FEMTO-ST Institute](https://www.femto-st.fr/en) in Besançon, France. 
 
-**Contact address:** <br>
-  FEMTO Neuro Group (JJ Aucouturier) <br>
-  Institut FEMTO-ST, Département AS2M, <br>
-  24 rue Alain Savary, <br>
-  25000 Besançon, France <br>
-[google map](https://www.google.com/maps/place/24+Rue+Alain+Savary,+25000+Besan%C3%A7on). 
+**Contact address:** ([google map](https://www.google.com/maps/place/24+Rue+Alain+Savary,+25000+Besan%C3%A7on)) 
+
+>  FEMTO Neuro Group (JJ Aucouturier) <br>
+>  Institut FEMTO-ST, Département AS2M, <br>
+>  24 rue Alain Savary, <br>
+>  25000 Besançon, France <br>
+
 
 **Phone:** +33 (0)3 81 40 28 01 (Dept. Secretary Isabelle Gabet)
 

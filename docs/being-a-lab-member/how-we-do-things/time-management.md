@@ -66,13 +66,13 @@ If you're too sick to come to work, (1) inform your PI (typically via a Slack DM
 
 ### Maternity/paternity leave
 
-<mark style="background-color:yellow;">Check rules</mark>
+==Check rules==
 
 You can declare maternity/paternity leave on the CNRS HR plateform [https://ariane.cnrs.fr](https://ariane.cnrs.fr)
 
 ### Compassionate leave
 
-<mark style="background-color:yellow;">Check procedure</mark>
+==Check rules==
 
 ## How to report leave
 
