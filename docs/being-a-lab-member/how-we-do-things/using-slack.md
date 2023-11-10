@@ -48,6 +48,9 @@ Both channel and repo should have the same name (sometimes the first thing we sh
 
 In addition, channels and repo should be linked using the `/github` [bot](https://slack.github.com/). Type  `/github subscribe [repository_name]` in the repository_name channel in Slack, and the channel will automatically post updates about e.g. commits, PRs, etc. occurring in the repo. 
 
+!!! hint
+	If you make any change to the lab_manual, i.e. to [the lab_manual repo in github](./../../../about-this-manual/how-to-update-the-manual/), you'll see automatic notifications in the lab_manual channel in Slack. That's because the lab_manual channel was subscribed to the corresponding repo in github, in the same way project channel should be. 
+
 Because this cycle of _design + data-collection + analysis + writing_ can be quite long, we expect the typical active life of a project channel would be about ~1 year. The typical project channel will implicate mainly one lab member (e.g. PhD student or postdoc) + their PI, with the adhoc addition of whoever else is needed for expertise/comments etc. over the course of the project. Sometimes we will also invite to Slack external collaborators (.g. co-supervisors for some PhD projects) so we keep all project discussion in Slack. 
 
 Each lab member can of course participate in as many project channels in parallel, as needed and as their work develops. The rule of thumb is that PhD students create perhaps one project channel per year (culminating in 3 parallel project in their 3rd year, one in design/data-collection, another in data-analysis, and a third one at the paper-writing stage), and that postdocs may entertain 2-3 projects from their first year, but there are no rule. 
