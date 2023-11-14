@@ -49,9 +49,11 @@ markdown_extensions:
       permalink: true
 
 plugins:
-  - search
+  - search: {}
   - git-revision-date-localized:
       enable_creation_date: true
+  - encryptcontent:
+        global_password: 'your_password'
 
 nav:
 
@@ -61,6 +63,7 @@ nav:
     - 'Manual metadata' : 'about-this-manual/manual-metadata.md'
     - 'Why we use a lab manual' : 'about-this-manual/why-we-use-a-lab-manual.md'
     - 'How to update the manual' : 'about-this-manual/how-to-update-the-manual.md' 
+    - 'Why Igor ?': 'about-this-manual/why-igor.md'
     
   - 'About the lab':
     - 'Lab mission & focus': 'about-the-lab/lab-mission-and-focus.md'
