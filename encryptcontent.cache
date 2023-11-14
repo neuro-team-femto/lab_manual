@@ -1,5 +1,6 @@
 kdf_iterations: 10000
 obfuscate: {}
 password:
+  neuro: 8885f1cf2c02d11fd0994f9fdb6c74c51383c66786ee77c86413cfaf237001f2;b40c5c218469449fc464e9b2e4367124
   your_password: 54ac8bc36c394b0020cf33ffe187ad71b149796e193d2ef4d0a4e1792470ec8b;f7ad70ceec701a0b2315917cb2763607
 userpass: {}
