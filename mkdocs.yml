@@ -1,6 +1,6 @@
 # yaml-language-server: $schema=https://squidfunk.github.io/mkdocs-material/schema.json
 
-site_name: Lab Manual, FEMTO Neuro Group
+site_name: IGOR, lab manual for the FEMTO Neuro Group
 
 repo_url: https://github.com/neuro-team-femto/lab_manual
 repo_name: neuro-team-femto/lab_manual
@@ -55,6 +55,8 @@ plugins:
   - encryptcontent:
       global_password: 'neuro'
       title_prefix: ''
+      decryption_failure_message: 'Wrong password.'
+      encryption_info_message: 'Access is restricted to members of the Neuro group.'
 
 nav:
 
