@@ -35,17 +35,17 @@ Manual for Participating in the Neuro-XP Experiment
 - After making a selection, the next pair of sounds will play automatically.
 - Repeat this process for each pair of sounds until the end of the experiment.
 
-# Accessing the results 
+## Accessing the results 
 
 *For Experimenters and the ProsAVC Team in APHP
 
-## Administrator Access:
+### 1. Administrator Access:
 
 - To view individual or collective participant results, log in with administrator credentials.
-- Use Username (Identifiant): admin and Password: prosavc_admin.
-- Click sign-in to access the experiment's dashboard.
+- Use Username (Identifiant): "admin" and Password: "prosavc_admin".
+- Click "sign-in" to access the experiment's dashboard.
 
-## Reviewing Participant Data:
+### 2. Reviewing Participant Data:
 
 - Upon successful login, you'll be presented with a list of CSV files, each corresponding to a participant's data.
 - Click on a CSV file to review the participant's results.
