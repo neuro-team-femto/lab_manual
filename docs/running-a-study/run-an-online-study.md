@@ -41,7 +41,7 @@ Manual for Participating in the Neuro-XP Experiment
 
 ### 1. Administrator Access:
 
-- To view individual or collective participant results, log in with administrator credentials.
+- To view individual or collective participant results, go to : https://neuro-xp.femto-st.fr/revcor/xp/prosavc/results
 - Use Username (Identifiant): "admin" and Password: "prosavc_admin".
 - Click "sign-in" to access the experiment's dashboard.
 
