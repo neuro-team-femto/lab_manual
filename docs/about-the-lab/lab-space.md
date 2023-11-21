@@ -42,7 +42,7 @@ Our dedicated lab space consists of two rooms:
 
 
 In addition, we often 
-- room Design 2, in the _Transfert_ Building, in which we collect behavioural data for simultaneous groups of up to 15 participants. 
+- room Design 2 (0.83.14), in the _Transfert_ Building, in which we collect behavioural data for simultaneous groups of up to 15 participants. 
 
 <figure markdown>
   ![Image title](../images/design_2.jpg){ width="80%" }
@@ -54,7 +54,14 @@ In addition, we often
 
 The lab is hosted in the [SUPMICROTECH](https://www.supmicrotech.fr/) (prev. known as ENSMM - pronounced enn-sem) building, which hosts 3 FEMTO-ST departments: [AS2M](https://www.femto-st.fr/en/Research-departments/AS2M/Presentation) (French: Automatique et Systèmes Micromécatroniques; English: Automation & Robotics); [TF](https://www.femto-st.fr/en/Research-departments/TF/Presentation) (French: Temps-Fréquence; English: Time-Frequency); [DMA](https://www.femto-st.fr/en/Research-departments/APPLIED-MECHANICS/Research-groups) (French: Département de Mécanique Appliquée; English: Applied mechanics); as well as a teaching space for a relatively large _école d'ingénieur_ (Engineering grad school _ENSMM_ for _École Nationale Supérieure de Mécanique et des Microtechniques_, now rebranded as [SUPMICROTECH](https://www.supmicrotech.fr/)) and a variety of associated administrative services. 
 
-A map of the ENSMM building can be found [here]() ==FIXME==
+A map of the ENSMM building can be found [here](../images/neuro_map.jpg)
+
+<figure markdown>
+  ![Image title](../images/neuro_map.jpg){ width="80%" }
+  <figcaption>Contact info and floor map</figcaption>
+</figure>
+
+
 
 **Room numbering** in SUPMICROTECH is confusing, as it obeys to a 3D coordinate system ordered as height; length; width. Our common lab space 0.60.20 is on the ground floor (0), down the hall from the ENSMM main entrance (about 60 meters, probably), and not very far away from the front glassed part of the building (indeed, we directly face it). Our EEG room is one room further orthogonally from the front facade, and logically goes by 0.60.21. A room like 0.77.16 (seminar room Transfert #3, see below) you can infer is on the same floor (Ground floor 0), further away from main entrance (77, indeed in the neighboring "Transfert" building) and further on the right than the lab (towards the car park). Sounded like a good idea - but in practice nobody ever remembers the coordinate system and we address rooms by names...
 
@@ -78,6 +85,7 @@ If you need more space or privacy for meetings that what our common lab space ca
 * Amphi Jules Haag (==room XX.XX.XX==). A nice, round lecture hall suitable for 50-100 people. Just behind the SUPMICROTECH front desk/reception. JJ's favorite as it's easy to find for external people, and pleasing to address as a speaker
 * Amphi Pierre Mesnage (==room XX.XX.XX==). A somewhat older-looking lecture hall suitable for 50-100 people, similar to Jules Haag.&#x20;
 * Amphi Emilie Du Chatelet (==room XX.XX.XX==). A huge (400 people+) lecture hall that's typically only suitable for general assembly or conferences. In neighboring building _Bâtiment Tesla.
+
 
 !!! note 
 	As for rooms in Transfert building, SUPMICROTECH amphitheatre (Haag, Mesnage, Du Chatelet) cannot be booked by the FEMTO room reservation service, but by email to accueil@ens2m.fr
