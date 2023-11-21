@@ -4,7 +4,7 @@
 
 The FEMTO Neuro Group is located in the SUPMICROTECH building, [Dept. of Automation and Robotics](https://www.femto-st.fr/en/Research-departments/AS2M/Presentation), [FEMTO-ST Institute](https://www.femto-st.fr/en) in Besançon, France. 
 
-**Contact address:** ([google map](https://www.google.com/maps/place/24+Rue+Alain+Savary,+25000+Besan%C3%A7on)) 
+**Contact address:** ([google map](https://www.google.com/maps/place/24+Rue+Alain+Savary,+25000+Besan%C3%A7on), [floor map](../images/neuro_map.pdf))
 
 >  FEMTO Neuro Group (JJ Aucouturier) <br>
 >  Institut FEMTO-ST, Département AS2M, <br>
@@ -54,7 +54,7 @@ In addition, we often
 
 The lab is hosted in the [SUPMICROTECH](https://www.supmicrotech.fr/) (prev. known as ENSMM - pronounced enn-sem) building, which hosts 3 FEMTO-ST departments: [AS2M](https://www.femto-st.fr/en/Research-departments/AS2M/Presentation) (French: Automatique et Systèmes Micromécatroniques; English: Automation & Robotics); [TF](https://www.femto-st.fr/en/Research-departments/TF/Presentation) (French: Temps-Fréquence; English: Time-Frequency); [DMA](https://www.femto-st.fr/en/Research-departments/APPLIED-MECHANICS/Research-groups) (French: Département de Mécanique Appliquée; English: Applied mechanics); as well as a teaching space for a relatively large _école d'ingénieur_ (Engineering grad school _ENSMM_ for _École Nationale Supérieure de Mécanique et des Microtechniques_, now rebranded as [SUPMICROTECH](https://www.supmicrotech.fr/)) and a variety of associated administrative services. 
 
-A map of the ENSMM building can be found [here](../images/neuro_map.jpg)
+A map of the ENSMM building can be found [here](../images/neuro_map.pdf)
 
 <figure markdown>
   ![Image title](../images/neuro_map.jpg){ width="80%" }
