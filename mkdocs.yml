@@ -97,9 +97,14 @@ nav:
       - 'Caring about Happy Lab Life': 'being-a-lab-member/maintaining-health-and-safety/caring-about-happy-lab-life.md'
   
   - 'Running a study': 
-      - 'Run a group behavioural study' : 'running-a-study/run-a-group-behavioural-study.md'
-      - 'Run an online study': 'running-a-study/run-an-online-study.md'
-      - 'Run an EEG study in the lab': 'running-a-study/run-an-EEG-study.md'
+      - 'Data collection' : 
+        - 'Finding participants' : 'running-a-study/data-collection/advertise-your-experiment.md'
+        - 'Run a group behavioural study' : 'running-a-study/data-collection/run-a-group-behavioural-study.md'
+        - 'Run an online study': 'running-a-study/data-collection/run-an-online-study.md'
+        - 'Run an EEG study in the lab': 'running-a-study/data-collection/run-an-EEG-study.md'
+      - 'Publication' : 
+        - "Steps when you've published" : 'running-a-study/publication/you-ve-published.md'
+
   
   - 'Leaving the Lab' :
       - 'Who to contact and when' : 'leaving-the-lab/who-to-contact-and-when.md'
