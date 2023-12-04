@@ -5,6 +5,9 @@
 
 We have 2 roll-ups: you should print a A3 sticker describing your experiment for each, and display them. 
 
+Download [powerpoint template](../../downloads/A3_sticker.pptx) for A3 sticker.
+
+
 Several places: 
 
 - ENSMM entrance hall (gets you 5-10 people each time)
