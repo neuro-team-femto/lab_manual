@@ -5,8 +5,10 @@
 
 ## Printing A4-size in the lab 
 
+Printing on the AS2M-PHOTOCOP2 printer needs a personal access code, which you should request at SCI via a [tickets.femto-st.fr](tickets.femto-st.fr). 
 
-<mark style="background-color:yellow;">AYNAZ: </mark> Add instructions how to print from the dept. printers. 
+When you have a code, please follow the instructions to install the printer on your machine in [this pdf file](../../downloads/install_printer.pdf)
+
 
 ## Printing posters for conferences
 
