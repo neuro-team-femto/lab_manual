@@ -5,6 +5,9 @@
 
 We have 2 roll-ups: you should print a A3 sticker describing your experiment for each, and display them. 
 
+Download [powerpoint template](../../downloads/A3_sticker.pptx) for A3 sticker.
+
+
 Several places: 
 
 - ENSMM entrance hall (gets you 5-10 people each time)
@@ -19,7 +22,7 @@ Several places:
 
 - send email to as2m@listes.femto-st.fr for local recruitment
 
-- TODO: find email address to send to the ENSMM students (ask Solène in ENSMM communication)
+- send email to communication@ens2m.fr (to [Solenne Ricochon](https://www.linkedin.com/in/solenne-ricochon-150270105/?originalSubdomain=fr)) so they send an email announcement to the ENSMM students + an Instagram story on the ENSMM instagram (you can use [this](../../downloads/participate.jpg) visual)
 
 - TODO: find email address to send to the ISIFC students
 
