@@ -57,6 +57,7 @@ plugins:
       title_prefix: ''
       decryption_failure_message: 'Wrong password.'
       encryption_info_message: 'Access is restricted to members of the Neuro group.'
+      search_index: 'clear'
 
 nav:
 
@@ -93,10 +94,8 @@ nav:
       - 'Setting up for zoom or café neuro' : 'being-a-lab-member/how-we-do-things/setting-a-zoom-talk.md'
       - 'Life in the lab': 'being-a-lab-member/how-we-do-things/life-in-the-lab.md'
       - 'Taking guests' : 'being-a-lab-member/how-we-do-things/taking-guests.md'
-    - 'Maintaining Health and Safety': 
       - 'Health & Safety' : 'being-a-lab-member/maintaining-health-and-safety/health-and-safety.md'
-      - 'Caring about Happy Lab Life': 'being-a-lab-member/maintaining-health-and-safety/caring-about-happy-lab-life.md'
-  
+    
   - 'Running a study': 
       - 'Data collection' : 
         - 'Finding participants' : 'running-a-study/data-collection/advertise-your-experiment.md'
