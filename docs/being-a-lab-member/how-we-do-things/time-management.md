@@ -14,7 +14,7 @@ You aren’t expected to come into lab on weekends and holidays, and you aren’
 
 You are generally free to organize your work during the week (i.e. what you do on what day, etc.) but we try to have a little structure in place so that lab members can know what to expect of each others:  
 
-As of Sept. 2023, we are having lab meetings ([Café Neuro](cafe-neuro/)) every Wednesday morning, ca. 10h30-12h. 
+As of Sept. 2023, we are having lab meetings ([Café Neuro](../cafe-neuro/)) every Wednesday morning, ca. 10h30-12h. 
 
 By default, lab members are expected to be in the lab everyday, unless otherwise agreed with their PI (see [below](#the-five-states-of-the-academic-employee), the "Five States of Academic Employees")
 
@@ -48,7 +48,7 @@ Because several faculty in the Dept. teach at ENSMM/Supmicrotech, and the ENSMM 
 
 ## the Five States of the Academic Employee
 
-If you are an employee in the academic sector (typically with us, if you have a work contract from CNRS, or perhaps one of the lab's other [tutelles](../../about-the-lab/about-our-operating-institutions)), you have to abide to the employment rules of French civil service. These are relatively simple. Electrons have two possible states, we have five:  
+If you are an employee in the academic sector (typically with us, if you have a work contract from CNRS, or perhaps one of the lab's other [tutelles](../../../about-the-lab/about-our-operating-institutions)), you have to abide to the employment rules of French civil service. These are relatively simple. Electrons have two possible states, we have five:  
 
 On any given day, every lab member is: 
 
