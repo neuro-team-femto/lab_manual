@@ -1,12 +1,34 @@
 # Time management
 
-## Annual structure;
+## Lab hours
 
-Because FEMTO-ST is a non-teaching environment, and most of us in the team are full-time researchers, a year in the lab isn't typically structured in terms/semesters (as many labs in other countries are).&#x20;
+The standard 7-hour work day in the department is 9:30am-5:30pm with a one hour break for lunch. 
+You aren’t expected to come into lab on weekends and holidays, and you aren’t expected to stay late at night.
 
-Our typical year starts in the last week of August, and lasts until mid-July. We keep our activity and lab meetings throughout the year, except during Christmas break (last 2 weeks of December), summer break (typically mid-July to end-August), and the occasional bank holiday.&#x20;
+!!! warning
+  The SUPMICROTECH building has official opening hours, after which doors will be locked and the alarm set. 
+  These are <mark> MON-FRI TO BE COMPLETED, SAT TO BE COMPLETED </mark> 
+  If you request exceptional permission to enter the building outside of these hours (ex. you have a 5am zoom call with another country, and would like to do it in the lab), the access rights on your ID card can be modified temporarily, and the alarms set off: ask Emeline Beluche <emeline.beluche@ens2m.fr>
 
-There are 11 official bank holiday (_jour férié_) in France, on which the lab is closed and lab members are not expected to come to work (even though the premises may remain open for urgent matters - double check if you intend to come in on these days):&#x20;
+## Week structure
+
+You are generally free to organize your work during the week (i.e. what you do on what day, etc.) but we try to have a little structure in place so that lab members can know what to expect of each others:  
+
+As of Sept. 2023, we are having lab meetings ([Café Neuro](cafe-neuro/)) every Wednesday morning, ca. 10h30-12h. 
+
+By default, lab members are expected to be in the lab everyday, unless otherwise agreed with their PI (see [below](#the-five-states-of-the-academic-employee), the "Five States of Academic Employees")
+
+PI JJA attempts to be in the lab fulltime for discussions and impromptu questions on monday all day, wednesday morning, and friday all day. He will be in the Dept, but possibly working on his own or busy in dept meetings on Tuesdays and Thursdays. JJ is on work-at-home time every wednesday afternoons.  
+
+PI Patrick Nectoux is in the lab Monday thru Thursday, and is on work-at-home time on Fridays. 
+
+## Annual structure
+
+Because FEMTO-ST is a non-teaching environment, and most of us in the team are full-time researchers, a year in the lab isn't typically structured in terms/semesters (as many labs in other countries are).
+
+Our typical year starts in the last week of August, and lasts until mid-July. We keep our activity and lab meetings throughout the year, except during Christmas break (last 2 weeks of December), summer break (typically mid-July to end-August), and the occasional bank holiday.
+
+There are 11 official bank holiday (_jour férié_) in France, on which the lab is closed and lab members are not expected to come to work (even though the premises may remain open for urgent matters - double check if you intend to come in on these days):
 
 * New year's day (Jan 1st)
 * Easter monday (one monday in April)
@@ -24,33 +46,28 @@ The lab has no mandatory vacation time, but our building closes down for one wee
 
 Because several faculty in the Dept. teach at ENSMM/Supmicrotech, and the ENSMM school year tends to align with the national school holidays (_vacances scolaires:_ vacances de Toussaint, 2 weeks end of October; vacances de Noel, 2 weeks end of Dec; vacances d'hiver, 2 weeks mid-February; vacances de Pâques/printemps, 2 weeks mid-April), you'll see the Dept. tend to get a little quiet on these periods. While many of us (incl. those with families) tend to align their own vacations with these periods, the lab will continue its normal operations throughout, albeit with maybe slightly less people around.&#x20;
 
-## Lab hours
+## the Five States of the Academic Employee
 
-The standard 7-hour work day in the department is 9:30am-5:30pm with a one hour break for lunch.&#x20;
+If you are an employee in the academic sector (typically with us, if you have a work contract from CNRS, or perhaps one of the lab's other [tutelles](../../about-the-lab/about-our-operating-institutions)), you have to abide to the employment rules of French civil service. These are relatively simple. Electrons have two possible states, we have five:  
 
-You aren’t expected to come into lab on weekends and holidays, and you aren’t expected to stay late at night.&#x20;
+On any given day, every lab member is: 
 
-## Absences/holidays
+1. Either at work, in the lab, during normal working hours (by default)
 
-### General rules
+2. Or, if not in the lab, in one of 4 "absent states" that each need to be systematically reported:
+  - in holiday
+  - on sick leave (or by extension maternity leave/compassionate leave)
+  - on official travel (_mission_)
+  - or in teletravail (remote/work-at-home)
 
-The rule in the lab is that, on any given day, every lab member is:&#x20;
+Every absent state (holiday, sick leave, mission, teletravail) has to be reported at two places:
 
-Either at work, in the lab, during normal working hours
-
-Or, if not in the lab, in one of 4 "absent states" that each need to be systematically reported:&#x20;
-
-1. in holiday
-2. in sick leave (or by extension maternity leave/compassionate leave)
-3. in official travel (_mission_)
-4. or in teletravail
-
-Every absent state (holiday, sick leave, mission, teletravail) has to be reported at two places:&#x20;
-
-1. to your PI, typically via a Slack DM, with reasonable advance notice whenever possible, and&#x20;
+1. to your PI, typically via a Slack DM, with reasonable advance notice whenever possible, and
 2. if you're a CNRS employee, in the CNRS AGATE-TEMPO plateform [https://agate-tempo.cnrs.fr](https://agate-tempo.cnrs.fr/fr/). (N.B. you need a CNRS/Janus id for this, which you only have if you're employed by CNRS. Other employers may have different plateforms)
 
-Note that declaring your holiday in AGATE-TEMPO needs to be done _ahead_ of time, as they require validation by someone higher up (typically the head of dept) and they cannot be declared after the day is passed
+Note that declaring your holiday in AGATE-TEMPO needs to be done _ahead_ of time, as they require validation by someone higher up (typically the head of dept) and they cannot be declared _after_ the day is passed
+
+## Reporting leave of absence (holiday/sick leave)
 
 ### Annual leave/holiday
 
@@ -73,13 +90,4 @@ You can declare maternity/paternity leave on the CNRS HR plateform [https://aria
 ### Compassionate leave
 
 ==Check rules==
-
-## How to report leave
-
-Every absent state (holiday, sick leave, mission, teletravail) has to be reported at two places:&#x20;
-
-1. to your PI, typically via a Slack DM, with reasonable advance notice whenever possible, and&#x20;
-2. if you're a CNRS employee, in the CNRS AGATE-TEMPO plateform [https://agate-tempo.cnrs.fr](https://agate-tempo.cnrs.fr/fr/). (N.B. you need a CNRS/Janus id for this, which you only have if you're employed by CNRS. Other employers may have different plateforms)
-
-Note that declaring your holiday in AGATE-TEMPO needs to be done _ahead_ of time, as they require validation by someone higher up (typically the head of dept) and they cannot be declared after the day is passed
 
