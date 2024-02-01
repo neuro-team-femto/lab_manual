@@ -8,7 +8,7 @@ You aren’t expected to come into lab on weekends and holidays, and you aren’
 !!! warning
 	The SUPMICROTECH building has official opening hours, after which doors will be locked and the alarm set. 
   
-These are <mark> MON-FRI. TO BE COMPLETED, SAT. TO BE COMPLETED </mark>. If you request exceptional permission to enter the building outside of these hours (ex. you have a 5am zoom call with another country, and would like to do it in the lab), the access rights on your ID card can be modified temporarily, and the alarms set off: ask Emeline Beluche <emeline.beluche@ens2m.fr>
+These are <mark> MON-FRI. TO BE COMPLETED, SAT. TO BE COMPLETED </mark>. If you request exceptional permission to enter the building outside of these hours (ex. you have a 5am zoom call with another country, and would like to do it in the lab), the access rights on your ID card can be modified temporarily, and the alarms turned off: ask Emeline Beluche <emeline.beluche@ens2m.fr>
 
 ## Week structure
 
