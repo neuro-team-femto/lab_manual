@@ -6,12 +6,12 @@ As members of the lab, you may be given the opportunity to travel to e.g. academ
 
 If you are an employee in the academic sector (typically with us, if you have a work contract from CNRS, or perhaps one of the lab's other [tutelles](../../about-the-lab/about-our-operating-institutions)): 
 
-1. you need to have a pre-established "ordre de mission" (OM) before you travel. Recall that, like sophisticated electrons, civil servants are in [one of five possible states](time-management/) (in the lab, in holiday, on sick leave, in _teletravail_ or... on travel), and that each of the four later states have to be reported in advance (first to your PI, then using CNRS tools, see below)
+1. you need to have a pre-established "ordre de mission" (OM) before you travel. Recall that, like sophisticated electrons, civil servants are in [one of five possible states](../time-management/) (in the lab, in holiday, on sick leave, in _teletravail_ or... on travel), and that each of the four later states have to be reported in advance (first to your PI, then using CNRS tools, see below)
 
-2. you should never (NEVER) advance your own travel costs (e.g. buy a train ticket, pay reservation for hotel, pay conference registration), otherwise we will not be able to reimburse you. 
+2. you should never advance your own travel costs (e.g. buy a train ticket, pay reservation for hotel, pay conference registration), otherwise we will not be able to reimburse you. 
 
 !!! warning "Read again"
-	You should never advance your own travel costs, otherwise we won't be able to reimburse you. This is also true if we have academic guests, especially from abroad: make sure they know this as early as possible when discussing a possible visit. 
+	You should NEVER advance your own travel costs, otherwise we won't be able to reimburse you. This is also true if we have academic guests, especially from abroad: make sure they know this fact as early as possible when discussing a possible visit. 
 
 3. instead, all travel reservations have to be made using the official CNRS plateform, which also automatically issues your "ordre de mission". 
 
@@ -31,13 +31,16 @@ As of Aug. 2023, all our travel arrangements should be made using a series of CN
 	The following is only for people who travel on CNRS budget (regardless of whether you are a CNRS employee or not). This is normally the rule for most of our travel, as we in the lab try to have the majority of our budget handled by CNRS (see [this](../../../about-the-lab/about-our-operating-institutions/#getting-stuff-done-in-UMRs) for details about how UMRs work). If you travel on budget managed at another tutelles, ask your PI or our Dept admin about how to proceed. 
 
 <figure markdown>
-  ![CNRS plateform](../.../.../images/etamine.png){ width="80%" }
+  ![CNRS plateform](../../../images/etamine.png){ width="100%" }
   <figcaption>A roadmap of how to use etamine, notilus and goelett/rydoo</figcaption>
 </figure>
 
 In a nutshell: 
 
 1. Etamine ([https://etamine-connecte.cnrs.fr](https://etamine-connecte.cnrs.fr)) is your starting place. Go there to declare your upcoming _mission_ (where you're going, why, what exact dates, what type of transportation, and an estimated cost). 
+
+!!! warning
+	The first time you use Etamine, you need to create an account and synchronize it with the other CNRS tools. Follow instructions in [Traveler's guide, before your travel (part 1)](../../../../downloads/TRAVELER-GUIDE_Before-the-mission_V1.1-1st-part.pdf), page 10.
 
 2. You then submit this for approval to our Dept admins (by clicking on a button called the like of _transmettre_ or _envoyer_, see detailed instructions below) 
 
@@ -53,7 +56,7 @@ In a nutshell:
 !!! warning
 	Depending on your reservation, there may be very short delay before our admins must confirm your trip (last-minute train tickets may require less than 30min between your reservation on Notilus, your transfering to our admins, and their confirmation click). So in practice, you may want to give them advance notice, or even walk to their office to make sure they are available to react quickly. 
 
-6. When our admins approve this final stage, you're done. You should receive tickets and hotel voucher by email. 
+When our admins approve this final stage, you're done. You should receive tickets and hotel voucher by email. 
 
 The whole system is relatively convenient _when it works_ but (as of Jan. 2024) is extraordinarily brittle and counter-intuitive, so you're likely to mess up a couple of times because you get the gist of it. There's a process of continuous improvement which, hopefully, will make things better. 
 
@@ -61,9 +64,9 @@ The whole system is relatively convenient _when it works_ but (as of Jan. 2024) 
 
 English language documentation: 
 
-- [Traveler's guide, before your travel (part 1)](.../.../downloads/TRAVELER-GUIDE_Before-the-mission_V1.1-1st-part.pdf)
-- [Traveler's guide, before your travel (part 2)](.../.../downloads/TRAVELER-GUIDE_Before-the-mission_V1.1-2nd-part.pdf)
-- [Traveler's guide, after your travel](.../.../downloads/TRAVELER-GUIDE_After-the-mission_V1.1.pdf)
+- [Traveler's guide, before your travel (part 1)](../../../../downloads/TRAVELER-GUIDE_Before-the-mission_V1.1-1st-part.pdf)
+- [Traveler's guide, before your travel (part 2)](../../../../downloads/TRAVELER-GUIDE_Before-the-mission_V1.1-2nd-part.pdf)
+- [Traveler's guide, after your travel](../../../../downloads/TRAVELER-GUIDE_After-the-mission_V1.1.pdf)
 
 
 

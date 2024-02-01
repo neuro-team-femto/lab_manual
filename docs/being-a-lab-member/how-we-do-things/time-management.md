@@ -6,9 +6,9 @@ The standard 7-hour work day in the department is 9:30am-5:30pm with a one hour 
 You aren’t expected to come into lab on weekends and holidays, and you aren’t expected to stay late at night.
 
 !!! warning
-		The SUPMICROTECH building has official opening hours, after which doors will be locked and the alarm set. 
+	The SUPMICROTECH building has official opening hours, after which doors will be locked and the alarm set. 
   
-These are <mark> MON-FRI TO BE COMPLETED, SAT TO BE COMPLETED </mark>. If you request exceptional permission to enter the building outside of these hours (ex. you have a 5am zoom call with another country, and would like to do it in the lab), the access rights on your ID card can be modified temporarily, and the alarms set off: ask Emeline Beluche <emeline.beluche@ens2m.fr>
+These are <mark> MON-FRI. TO BE COMPLETED, SAT. TO BE COMPLETED </mark>. If you request exceptional permission to enter the building outside of these hours (ex. you have a 5am zoom call with another country, and would like to do it in the lab), the access rights on your ID card can be modified temporarily, and the alarms set off: ask Emeline Beluche <emeline.beluche@ens2m.fr>
 
 ## Week structure
 
@@ -46,7 +46,7 @@ The lab has no mandatory vacation time, but our building closes down for one wee
 
 Because several faculty in the Dept. teach at ENSMM/Supmicrotech, and the ENSMM school year tends to align with the national school holidays (_vacances scolaires:_ vacances de Toussaint, 2 weeks end of October; vacances de Noel, 2 weeks end of Dec; vacances d'hiver, 2 weeks mid-February; vacances de Pâques/printemps, 2 weeks mid-April), you'll see the Dept. tend to get a little quiet on these periods. While many of us (incl. those with families) tend to align their own vacations with these periods, the lab will continue its normal operations throughout, albeit with maybe slightly less people around.&#x20;
 
-## the Five States of the Academic Employee
+## The Five States of the Academic Employee
 
 If you are an employee in the academic sector (typically with us, if you have a work contract from CNRS, or perhaps one of the lab's other [tutelles](../../../about-the-lab/about-our-operating-institutions)), you have to abide to the employment rules of French civil service. These are relatively simple. Electrons have two possible states, we have five:  
 
