@@ -6,7 +6,9 @@ The standard 7-hour work day in the department is 9:30am-5:30pm with a one hour 
 You aren’t expected to come into lab on weekends and holidays, and you aren’t expected to stay late at night.
 
 !!! warning
-		The SUPMICROTECH building has official opening hours, after which doors will be locked and the alarm set. These are <mark> MON-FRI TO BE COMPLETED, SAT TO BE COMPLETED </mark>. If you request exceptional permission to enter the building outside of these hours (ex. you have a 5am zoom call with another country, and would like to do it in the lab), the access rights on your ID card can be modified temporarily, and the alarms set off: ask Emeline Beluche <emeline.beluche@ens2m.fr>
+		The SUPMICROTECH building has official opening hours, after which doors will be locked and the alarm set. 
+  
+These are <mark> MON-FRI TO BE COMPLETED, SAT TO BE COMPLETED </mark>. If you request exceptional permission to enter the building outside of these hours (ex. you have a 5am zoom call with another country, and would like to do it in the lab), the access rights on your ID card can be modified temporarily, and the alarms set off: ask Emeline Beluche <emeline.beluche@ens2m.fr>
 
 ## Week structure
 
