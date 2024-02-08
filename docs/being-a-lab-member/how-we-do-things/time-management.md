@@ -81,13 +81,19 @@ The lab has no mandatory vacation time, but our building closes down for one wee
 
 If you're too sick to come to work, (1) inform your PI (typically via a Slack DM), (2) visit a doctor (GP, _médecin généraliste_) and ask for a sick leave certificate. You can then declare your sick leave on the CNRS HR plateform [https://ariane.cnrs.fr](https://ariane.cnrs.fr)
 
-### Maternity/paternity leave
+### Absent for Family reasons 
 
-<mark> Check rules </mark>
+French law has a number of rules that gives you an automatic number of leave days in the event of happy or not-so-happy family situations. 
 
-You can declare maternity/paternity leave on the CNRS HR plateform [https://ariane.cnrs.fr](https://ariane.cnrs.fr)
+These are 
+- 4 leave days for wedding or PACS (pacte civil de solidarité).
+- 1 leave day if a child gets married.
+- 3 leave days at the birth of your child. Note that you are also in this case entitled to a longer maternity/paternity leave
+- 5 leave days (compassionate leave) for the death of a child, 3 days for the death of a partner, and immediate family (parents, siblings)
 
-### Compassionate leave
+Of course, you may always complement these days with extra days from your annual leave count. 
 
-<mark> Check rules </mark>
+As above, you can declare such leave on the CNRS HR plateform [https://ariane.cnrs.fr](https://ariane.cnrs.fr). 
+
+
 

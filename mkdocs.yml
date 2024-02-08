@@ -85,7 +85,11 @@ nav:
     - 'Skills updating': 'becoming-a-lab-member/skills-updating.md'
     
   - 'Being a lab member' : 
-    - 'Roles and expectations': 'being-a-lab-member/roles-and-expectations.md'
+    - 'Roles and expectations':
+      - 'Doing science here' : 'being-a-lab-member/roles-and-expectations/big-picture.md'
+      - 'Life in the lab' : 'being-a-lab-member/roles-and-expectations/small-picture.md'
+      - 'PhDs, Postdocs and PIs' : 'being-a-lab-member/roles-and-expectations/roles-and-expectations.md'
+      
     - 'How We Do Things': 
       - 'Time management' : 'being-a-lab-member/how-we-do-things/time-management.md'
       - 'Using Slack' : 'being-a-lab-member/how-we-do-things/using-slack.md'
@@ -93,15 +97,16 @@ nav:
       - 'Setting up for zoom or café neuro' : 'being-a-lab-member/how-we-do-things/setting-a-zoom-talk.md'
       - 'Printing' : 'being-a-lab-member/how-we-do-things/printing.md'
       - 'Travel' : 'being-a-lab-member/how-we-do-things/travel.md'
-      - 'Life in the lab': 'being-a-lab-member/how-we-do-things/life-in-the-lab.md'
-      - 'Health & Safety' : 'being-a-lab-member/maintaining-health-and-safety/health-and-safety.md'
+      - 'Health & Safety' : 'being-a-lab-member/how-we-do-things/health-and-safety.md'
     
   - 'Running a study': 
+      - 'Preparation': 
+        - 'Ethics & Consent forms': 'running-a-study/preparation/consent-form.md'
       - 'Data collection' : 
         - 'Finding participants' : 'running-a-study/data-collection/advertise-your-experiment.md'
-        - 'Run a group behavioural study' : 'running-a-study/data-collection/run-a-group-behavioural-study.md'
-        - 'Run an online study': 'running-a-study/data-collection/run-an-online-study.md'
-        - 'Run an EEG study in the lab': 'running-a-study/data-collection/run-an-EEG-study.md'
+        - 'Group behavioural study' : 'running-a-study/data-collection/run-a-group-behavioural-study.md'
+        - 'Online study': 'running-a-study/data-collection/run-an-online-study.md'
+        - 'EEG study': 'running-a-study/data-collection/run-an-EEG-study.md'
       - 'Publication' : 
         - "Steps when you've published" : 'running-a-study/publication/you-ve-published.md'
 

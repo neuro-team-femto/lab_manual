@@ -9,7 +9,9 @@ All of our lab communication goes through our dedicated Slack workspace ([https:
 
 Upon your arrival, but typically a few days/week before, JJ will typically have issued you a Slack invitation. If you haven't already, please create your Slack profile, with an easy-looking user name (easier to @jj than @jean-julien.aucouturier) and a recognizable profile picture.&#x20;
 
-Slack can be accessed in the browser, but we recommend you install the client [https://slack.com/intl/fr-fr/downloads](https://slack.com/intl/fr-fr/downloads) which makes it easier to get notifications, etc. There are also a variety of Android/MacOS apps, which you can install on your personal phone if you like (but see [#slack-and-work-life-balance](../being-a-lab-member/how-we-do-things/communication.md#slack-and-work-life-balance "mention"))&#x20;
+Slack can be accessed in the browser, but we recommend you install the client [https://slack.com/intl/fr-fr/downloads](https://slack.com/intl/fr-fr/downloads) which makes it easier to get notifications, etc. There are also a variety of Android/MacOS apps, which you can install on your personal phone if you like. 
+
+Then read our [Using Slack](../../being-a-lab-member/how-we-do-things/using-slack/) page. 
 
 ## Github
 

@@ -32,7 +32,7 @@ Progress reports should be between 4-6 slides maximum :
 	!!! hint 
 		This (Slide #6) could be your slide #2 when you present next time.
 
-[here](../../downloads/cafe neuro 6 déc.pdf) is an example of such presentation, from Aynaz's 2023-12-06 progress report. 
+[Here](../../downloads/cafe neuro 6 déc.pdf)'s an example of such presentation, from Aynaz's 2023-12-06 progress report. 
 
 
 
