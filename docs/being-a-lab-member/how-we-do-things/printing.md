@@ -8,7 +8,13 @@ When you have a code, you can either print directly on the printer (dial your co
 
 ## No more paper ? 
 
-There are spare packs of printing paper in the "Archives" room, which you can access with your room key. The archive room is located on floor 1 (same floor as Estelle & Isabelle), right-hand side when looking at the double staircase. 
+There are spare packs of printing paper in the "Archives" room, which you can access with your room key. The archive room is located in the AS2M Dept. on the mezzanine, floor 1 (same floor as Estelle & Isabelle), right-hand side when looking at the double staircase (same side as cafetaria). 
+
+<figure markdown>
+  ![archives](../../../images/archive.jpg){ width="100%" }
+  <figcaption>"Archives" room, where spare printing paper is located</figcaption>
+</figure>
+
 
 
 ## Printing posters for conferences
