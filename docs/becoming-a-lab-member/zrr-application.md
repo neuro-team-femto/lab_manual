@@ -20,9 +20,7 @@ The complete application (form + supporting documents + confidentiality agreemen
 
     ZRR applications take between 6-8 weeks to be processed. As a successful ZRR application is in many cases compulsory for your contract to be issued, it is therefore important to do this step well in advance of your contract starting date. In addition, although such decisions are rare and can be appealed in some cases, a declined ZRR application is bad news: it typically means we won't be able to issue you a contract, or even host you in the lab. So, if timing permits, you may want to wait for your approved ZRR application before e.g. paying Visa fees, booking tickets or incurring any costs (e.g. moving) because we wouldn't be able to reimburse theses costs if your ZRR application is declined.  
 
+!!! warning 
 
-
-
-
-
+	If you are a foreign citizen, a rejected ZRR application may weight negatively on _any other_ VISA applications you may be doing in the Schengen area. Please discuss with your PI to evaluate before you apply. 
 
