@@ -5,9 +5,119 @@ icon: fontawesome/solid/hourglass-half
 
 # Running an online study
 
-Manual for Participating in the Neuro-XP Experiment
+## Deploying JONES updates on server
 
-## Accessing the Experiment
+These instructions are for upgrading JONES on the already installed server neuro-xp.femto-st.fr
+
+### Connect to server
+
+- open a shell / command prompt (note: SublimeText REPL stdin is not a terminal and won't work; use command prompt on windows)
+- ssh to the server: (172.20.208.18 or neuro-xp.femto-st.fr)
+```
+> ssh admin@172.20.208.18
+```
+- admin password is `aqzsedrftg`
+
+### Upload new code and build
+
+- cd to /opt/revcor_test/ (note: you may have to cd .. to exit the `admin` home)
+- clone the version of jones you want to install (`.` at the end tells to clone directly into `revcor_test` and not `revcor_test/jones/`)
+```
+git clone https://github.com/neuro-team-femto/jones.git .
+```
+- build jones on server:
+```
+go build
+./jones -APP_MODE BUILD_FRONT
+```
+
+### Test new code
+- test it by running the ./jones app: first copy an experiment from /example to /data, then run the app using the APP_ORIGINS keyword so that it listens to https://neuro-xp.femto-st.fr
+```
+APP_ORIGINS=https://neuro-xp.femto-st.fr ./jones
+```
+!!! warning
+  Note sure what happens if you have the prod app already running in a screen and listening to the same https: you may need to kill it first before you can APP_ORIGINS to the test app. This will interrupt service. 
+  
+- test that the app works, by navigating to `https://neuro-xp.femto-st.fr/xp/image_int1/new` (or whatever your experiment name is)
+- CTRL+C to break the app
+
+### Deploy to prod
+If this works, then deploy by replacing revcor_prod by revcor_test: 
+
+- copy the content of the prod/data folder (all experiments) into test
+```
+cp -r /opt/revcor_prod/data/* /opt/revcor_test/data
+```
+- delete the old backup
+```
+rm -r /opt/revcor_prod.backup
+```
+- backup the current prod
+```
+mv /opt/revcor_prod /opt/revcor_prod.backup
+```
+- rename test as prod
+```
+mv /opt/revcor_test/revcor /opt/revcor_prod
+```
+
+### Run app in a persistent terminal (GNU Screen)
+
+If revcor_prod/jones isn't already running in a persistent terminal, we need to run it
+```
+screen -R
+cd /opt/revcor_prod
+APP_ORIGINS=https://neuro-xp.femto-st.fr ./jones
+```
+
+- test on https://neuro-xp.femto-st.fr/xp/image_int1/new
+
+- if works, detach the GNU Screen so that another user/session can access the process
+```
+CTRL+A,D
+```
+
+## Running, Stopping the app
+
+### Exec
+- ssh to serveur
+```
+> ssh admin@172.20.208.18
+```
+- admin password is `aqzsedrftg`
+- launch a new persistent terminal (GNU Screen)
+```
+screen -R
+```
+- run the app
+```
+cd /opt/revcor_prod
+APP_ORIGINS=https://neuro-xp.femto-st.fr ./jones
+```
+detach the GNU Screen so that another user/session can access the process
+```
+CTRL+A,D
+```
+
+### Stopping the app
+
+- ssh to serveur
+```
+> ssh admin@172.20.208.18
+```
+- admin password is `aqzsedrftg`
+- launch a new persistent terminal (GNU Screen)
+```
+screen -R
+```
+- kill the process
+```
+CTRL + C
+```
+
+## User instructions
+
 ### 1. Logging In:
 - Visit the experiment link: (https://neuro-xp.femto-st.fr/revcor/xp/prosavc/new).
 - Enter the login credentials: Username (identifiant): ex:frank, Access Code (Code d'accès): prosavc0aa0mv0jj.
