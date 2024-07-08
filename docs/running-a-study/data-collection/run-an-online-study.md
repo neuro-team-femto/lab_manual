@@ -37,7 +37,8 @@ go build
 APP_ORIGINS=https://neuro-xp.femto-st.fr ./jones
 ```
 !!! warning
-  Note sure what happens if you have the prod app already running in a screen and listening to the same https: you may need to kill it first before you can APP_ORIGINS to the test app. This will interrupt service. 
+  
+  Not sure what happens if you have the prod app already running in a screen and listening to the same https: you may need to kill it first before you can APP_ORIGINS to the test app. This will interrupt service. 
   
 - test that the app works, by navigating to `https://neuro-xp.femto-st.fr/xp/image_int1/new` (or whatever your experiment name is)
 - CTRL+C to break the app
