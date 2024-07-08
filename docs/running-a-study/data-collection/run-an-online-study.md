@@ -117,6 +117,21 @@ screen -R
 CTRL + C
 ```
 
+## Adding a new experiment
+
+This is for adding new experiments in an already-running app
+
+The easiest is probably to install a GUI file transfer app like WINSCP. 
+- Connect to the server
+```
+server: 172.20.208.18
+port: 22
+user: admin
+pass: aqzsedrftg
+```
+- copy your experiment folder into `opt/revcor_prod/data` (-> `opt/revcor_prod/data/my_exp`) 
+- test on https://neuro-xp.femto-st.fr/xp/my_exp/new
+
 ## User instructions
 
 ### 1. Logging In:
