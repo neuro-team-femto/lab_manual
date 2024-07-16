@@ -1,9 +1,32 @@
----
-icon: fontawesome/solid/hourglass-half
-
----
-
 # Running an online study
+
+
+## Installing and running a JONES study locally (without the internet)
+
+- install the GO programming language on your machine [https://go.dev/doc/install](https://go.dev/doc/install)
+
+- cd to the directory where you want the experiments to be stored (e.g. `C:/work/projects/`) & clone the jones repository there
+```
+cd C:/work/projects/
+git clone https://github.com/neuro-team-femto/jones.git .
+```
+This should create a `/jones/` directory
+
+- copy your experiment to the `jones/data` folder (e.g. `jones/data/my_exp`). If you just want to try the procedure, you can copy one experiment from the `jones/examples` folder (e.g. `image_int1`) 
+
+- cd to the `jones` directory and build the jones resources: you do this by asking `go` to run the program stored in `jones/main.go` with the `-APP_MODE BUILD_FRONT` tag. This builds the javascript ressources that the application needs to run properly 
+```
+cd jones
+go run main.go -APP_MODE BUILD_FRONT
+```
+
+- then run the application, by calling `go run` again, this time without the `-APP_MODE` tag
+```
+go run main.go
+```
+This starts the application, which starts serving html pages that are available locally via localhost (i.e. you don't need an internet connection, but it can of course only be accessed on your machine). By default, the application listens to interactions occurring on port 8100 (which is why you'll need to connect to `localhost:8100` below).  
+
+- to run the experiment, open a browser and go to [http://localhost:8100/xp/my_exp/new](http://localhost:8100/xp/my_exp/new). You should be able to create a user and start responding to the experiment. All results will be stored in `jones/data/my_exp/results`.
 
 ## Deploying JONES updates on server
 
