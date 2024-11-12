@@ -22,5 +22,5 @@ Several places:
 
 - send email to communication@ens2m.fr (to [Solenne Ricochon](https://www.linkedin.com/in/solenne-ricochon-150270105/?originalSubdomain=fr)) so they send an email announcement to the ENSMM students + an Instagram story on the ENSMM instagram (you can use [this](../../downloads/participate.jpg) visual). Gets you 10-20 people each time. 
 
-- never tried : send email to steeven.flores@univ-fcomte.fr (Steeven Flores, community manager for ISIFC), so he can post on the ISIFC student discord as well as on TV screens (you can use [this](../../downloads/participate.jpg) visual). Remember ISIFC students have no access card to the supmicrotech building, so you should give instructions and e.g. organize for someone to escort them from the entrance. 
+- never tried : send email to [lotfi.el_haiti@univ-fcomte.fr](lotfi.el_haiti@univ-fcomte.fr) (Lotfi El Haiti, communication officer for ISIFC), so he can post on the ISIFC student discord as well as on TV screens (you can use [this](../../downloads/participate.jpg) visual). Remember ISIFC students have no access card to the supmicrotech building, so you should give instructions and e.g. organize for someone to escort them from the entrance. 
 
