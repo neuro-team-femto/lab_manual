@@ -46,7 +46,7 @@ By rule, every new project should get :
 
 Both channel and repo should have the same name (sometimes the first thing we should talk about is decide on how we call the channel and repo). All information/discussion about that project goes to that channel, and all code regarding the project's experiment design and data analysis should go to that repo. 
 
-In addition, channels and repo should be linked using the `/github` [bot](https://slack.github.com/). Type  `/github subscribe [repository_name]` in the repository_name channel in Slack, and the channel will automatically post updates about e.g. commits, PRs, etc. occurring in the repo. 
+In addition, channels and repo should be linked using the `/github` [bot](https://slack.github.com/). Type  `/github subscribe [repository_name] commits:*` in the repository_name channel in Slack, and the channel will automatically post updates about e.g. commits, PRs, etc. occurring in the repo (`commits:*` gets commits from all branches, not just main). 
 
 !!! hint
 	If you make any change to the lab_manual, i.e. to [the lab_manual repo in github](./../../../about-this-manual/how-to-update-the-manual/), you'll see automatic notifications in the lab_manual channel in Slack. That's because the lab_manual channel was subscribed to the corresponding repo in github, in the same way project channel should be. 
