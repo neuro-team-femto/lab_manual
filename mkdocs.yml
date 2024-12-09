@@ -108,6 +108,7 @@ nav:
         - 'Online study': 'running-a-study/data-collection/run-an-online-study.md'
         - 'EEG study': 'running-a-study/data-collection/run-an-EEG-study.md'
       - 'Publication' : 
+        - "Affiliations and logos": 'running-a-study/publication/lab-logos.md'
         - "Steps when you've published" : 'running-a-study/publication/you-ve-published.md'
 
   
