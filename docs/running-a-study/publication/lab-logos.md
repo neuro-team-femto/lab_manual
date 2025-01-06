@@ -2,9 +2,16 @@
 
 ## Affiliations
 
-As of 2024, with the disbandment (!) of UBFC, our author affiliation for papers should be 
+As of Jan. 2025, our author affiliation for papers should be, most of the case: 
 
-> Université de Franche-Comté, SUPMICROTECH, CNRS, institut FEMTO-ST, F-25000 Besançon, France
+> Université Marie et Louis Pasteur, SUPMICROTECH, CNRS, institut FEMTO-ST, F-25000 Besançon, France
+
+FYI/TMI - The logics of this is the outcome of a complex arbitrage between componants of the new UMLP. As the main target of university rankings, Université Marie et Louis Pasteur should come first so that our publications are added to its tally. SUPMICROTECH comes second because it is our physical host for the AS2M Dept - other depts of FEMTO will have a different order. 
+
+If your paper has co-authors from other departments of FEMTO-ST, you may not a different line of affiliation for each (actually, for every city involved). Refer to [this document](../../downloads/Logigramme_signature_FEMTO-ST.pdf) for help. 
+
+We're also instructed to avoid translating or abbreviating `Université Marie et Louis Pasteur`, i.e. use neither of <del> University Marie et Louis Pasteur, Univ. Marie et Louis Pasteur, Univ. ML Pasteur, UMLP <del>.
+
 
 ## Logos 
 
