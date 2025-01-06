@@ -71,7 +71,7 @@ If you need more space or privacy for meetings that what our common lab space ca
 
 **Recommended meeting spaces** are:&#x20;
 
-* AS2M meeting room (==room XX.XX.XX==, next to Isabelle & Estelle's). Good for 4-6 people, has projector & white board. That's your easiest option.
+* AS2M meeting room (room 1.60.23, next to Isabelle & Estelle's). Good for 4-6 people, has projector & white board. That's your easiest option.
 * TF meeting room (==room XX.XX.XX==) : slightly larger, projector & white board. The neighboring TF (Temps-fréquence) dept. meeting room, which we are allowed to use occasionally
 * Transfer #2 (room 0.73.16, Transfert building). Good for 10-15 people, has a projector and a large white board, relatively pleasing even for one-to-one brainstorm on the white board.
 
