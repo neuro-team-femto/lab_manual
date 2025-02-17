@@ -1,8 +1,3 @@
----
-
----
-
-
 # Taking guests
 
 
@@ -10,7 +5,7 @@ Here's a sample email with English and French instructions of how to navigate th
 
 ## English
 
-```
+```md
 Here are a few details about your visit to Besançon this week. 
 
 You will be arriving at "Besançon Viotte" station, which is our city-centre station. Be aware that there is another station, called "Besançon Franche-Comté TGV", which is about 10 minutes from the centre. Depending on your trains, your train will either terminate at Viotte (in which case you should not get off at the preceding TGV station), or terminate at BFC TGV, in which case you will have to change for a TER shuttle train, which will terminate at Viotte (usually track #8). The tickets you received should include that shuttle train connection.  
@@ -26,7 +21,7 @@ On Thursday evening, I propose to organise a dinner, with a group of around 6 pe
 
 ## French
 
-```
+```md 
 Voilà quelques indications pour votre venue à Besançon cette semaine. 
 
 Vous arriverez en gare de Besançon Viotte, qui est notre gare de centre-ville. Prenez garde au fait qu'il existe une autre gare, appelée Besançon Franche-Comté TGV, est qui est située à environ 10min du centre. Selon vos trains, votre train sera soit terminus Viotte (auquel cas il ne faut pas descendre à la gare TGV qui la précède), soit terminus BFC TGV, auquel cas il vous faudra changer pour une navette TER qui, elle, sera terminus Viotte. 
