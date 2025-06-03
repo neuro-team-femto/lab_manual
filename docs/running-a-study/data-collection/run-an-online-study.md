@@ -97,6 +97,10 @@ APP_ORIGINS=https://neuro-xp.femto-st.fr ./jones
 
 - test on https://neuro-xp.femto-st.fr/xp/image_int1/new
 
+!!! Warning
+  Depending on your system, running the app from admin may result in `permission denied` errors when running the app (ex. can't write to results folder, can't write to new_participants.txt, etc.). In this case, run `sudo APP_ORIGINS=https://neuro-xp.femto-st.fr ./jones`instead
+
+
 - if works, detach the GNU Screen so that another user/session can access the process
 ```
 CTRL+A,D
@@ -139,6 +143,9 @@ screen -R
 ```
 CTRL + C
 ```
+
+!!! Warning
+  Depending on what user launched the original app (admin, or root), you may have permission denied upon killing the process. call `ps -ef` to see the owner of the process and, if root, call `sudo kill -9 [pid]` to kill it. 
 
 ## Adding a new experiment
 
