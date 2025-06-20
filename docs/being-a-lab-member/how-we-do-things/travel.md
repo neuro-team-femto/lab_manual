@@ -68,6 +68,17 @@ English language documentation:
 - [Traveler's guide, before your travel (part 2)](../../../../downloads/TRAVELER-GUIDE_Before-the-mission_V1.1-2nd-part.pdf)
 - [Traveler's guide, after your travel](../../../../downloads/TRAVELER-GUIDE_After-the-mission_V1.1.pdf)
 
+## "Unusual" bookings
+
+The online plateform will very often return no results, especially when booking train connections abroad (ex. Besançon -> Berlin). In such case, you should ask the FCM agency for a manual booking. 
+1. Delete the travel and hotel items that were automatically inserted in Notilus from the information you provided in Etamine
+2. Create these items again (clicking on the + sign). 
+3. Do not click on "reserver", and ask our gestionnaire (Isabelle) to log in and click to "faire demande à l'agence" (ask the travel agent). The "ask the agent" button is available in your profile, but counterintuitively you're not allowed to do it and the procedure doesn't go through if you do it yourself
+4. Add your preferred route to "Notes"
+5. The travel agent will very likely simply sit on it and do nothing. Call them at +33 1 89 30 21 84 to follow up (best time: around 9am, so they have time to book, send to Isabelle for validation, and get it back in the same day).
+
+
+
 
 
 
