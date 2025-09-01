@@ -8,10 +8,13 @@ https://neuro-team-femto.github.io/publications/
 
 ## fill a new entry in publiweb
 
-- fill in this excel sheet with the article information
+- Create a Publiweb Ticket per publication on [https://tickets.femto-st.fr](https://tickets.femto-st.fr)
 
-- send form & pdf author's copy of the article to Estelle Petite
+- Tutorial: [https://publiweb.femto-st.fr/tntnet/pdf/memo-publiweb.pdf](https://publiweb.femto-st.fr/tntnet/pdf/memo-publiweb.pdf) 
 
 - normally the entry gets automatically published in publiweb (e.g. in your FEMTO profile page) + in HAL a few days later
 
+!!! note
+
+    Add your funders' information in the ticket, especially for ANR funding (ask JJ) which publications are automatically mined from HAL.
  
