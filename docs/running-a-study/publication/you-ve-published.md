@@ -10,9 +10,17 @@ https://neuro-team-femto.github.io/publications/
 
 - Create a Publiweb Ticket per publication on [https://tickets.femto-st.fr](https://tickets.femto-st.fr)
 
-- Tutorial: [https://publiweb.femto-st.fr/tntnet/pdf/memo-publiweb.pdf](https://publiweb.femto-st.fr/tntnet/pdf/memo-publiweb.pdf) 
+- Tutorial: [https://publiweb.femto-st.fr/tntnet/pdf/memo-publiweb.pdf](https://publiweb.femto-st.fr/tntnet/pdf/memo-publiweb.pdf). 
+
+- In particular, here's a list of acronyms used to identify article types in your ticket
+
+<figure markdown>
+  ![Image title](../../images/acronymes_publiweb.jpeg){ width="80%" }
+ </figure>
+
 
 - normally the entry gets automatically published in publiweb (e.g. in your FEMTO profile page) + in HAL a few days later
+
 
 !!! note
 
