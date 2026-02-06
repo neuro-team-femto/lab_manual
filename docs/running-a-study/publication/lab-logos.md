@@ -29,3 +29,18 @@ As of 2025, logos for our tutelles are [CNRS](https://extranet.femto-st.fr/intra
 ## Acknowledgements
 
 The acknowledgement section should thank our funding sources (ask your PI, that's typically Région BFC, ANR, Fondations, etc) + include the sentence _"This work has been conducted in the framework of the EIPHI Graduate school (ANR-17-EURE-0002 contract)"_
+
+
+# Latex tips
+
+Nice tip from Zhenxing Hu for how to compile a diff pdf between two versions of a paper (ex. to highlight revisions made from reviewers remarks): add a file called `latexmkrc` containing a redefinition of the pdflatex command: ```$pdflatex = "latexdiff --math-markup=whole hu_2025.tex hu_2025_v2.tex > hu_2025_diff.tex; pdflatex %O hu_2025_diff.tex";```
+and toggle that behaviour by commenting out the line. See [https://www.overleaf.com/learn/latex/Articles/How_to_use_latexdiff_on_Overleaf](https://www.overleaf.com/learn/latex/Articles/How_to_use_latexdiff_on_Overleaf) for explanations for how it works. 
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/d6b15b39-027f-4c0a-91d4-0d054f076865" />
+
+
+
+
+
+
+
