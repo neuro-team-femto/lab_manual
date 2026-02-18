@@ -47,7 +47,7 @@ In a nutshell:
 !!! warning
 	Our admins are supposed to be notified automatically when you do this, but for obscure reasons it's often not the case. Do therefore send a ticket or email to estelle.petite or isabelle.gabet to let them know you've created a new _mission_ (possibly providing the mission number that is issued by notilus)
 
-3. When you request is approved (you should get an automatic email about that), your _mission_ appears in a second application called Notilus ([https://esr-cnrs.notilus-inone.fr/#/Dashboard](https://esr-cnrs.notilus-inone.fr/#/Dashboard)). There, you will most notably be able to arrange your reservations (essentially, under tab _Voyage_, click on each step of your travel, and click on _réserver_)
+3. When you request is approved (you should get an automatic email about that), your _mission_ appears in a second application called Notilus ([https://esr-cnrs.notilus-pio.cegid.cloud/](https://esr-cnrs.notilus-pio.cegid.cloud/). There, you will most notably be able to arrange your reservations (essentially, under tab _Voyage_, click on each step of your travel, and click on _réserver_)
 
 4. This will automatically take you to a third app, called Goelett ([https://travel.goelett.com/](https://travel.goelett.com/), formally called rydoo in the picture above), which is essentially a train/plane/hotel reservation plateform. Book your tickets there (you'll go/confirm through several successive pages). 
 
