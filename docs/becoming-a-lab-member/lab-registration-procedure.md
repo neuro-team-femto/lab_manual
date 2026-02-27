@@ -28,7 +28,7 @@ By default, your FEMTO/uniweb registration should also trigger an email giving y
 
 Your ENSMM web account (in the form first name initials + first 6 letters of family name, ex. `jjaucout@ens2m.fr`) will get you access to both the eduroam WIFI (which is considered a local network for access to e.g. restricted FEMTO webservices) and the ENSMM\_Personnel WIFI, the ENSMM web services ([https://ent.ens2m.fr](https://ent.ens2m.fr), ENT for _Espace Numérique de Travail_) and the possibility to log on any ENSMM computer labs (which is important for running some of our experiments, see [running a study](../../running-a-study/run-a-group-behavioural-study/)).
 
-To connect to eduroam, your user name is your ens2m.fr complete email address (ex. jjaucout@ens2m.fr), and your ens2m.fr password (which you can admin here: [https://passe.ens2m.fr/](https://passe.ens2m.fr/))
+To connect to eduroam, your user name is your ens2m.fr complete email address (ex. jjaucout@supmicrotech.fr), and your ens2m.fr password (which you can admin here: [https://passe.ens2m.fr/](https://passe.ens2m.fr/))
 
 !!! Note
   The reason you can't use your FEMTO account to log in eduroam is that eduroam only works with/for degree granting higher-education institutions. FEMTO is a lab, and not a university. ENSMM and Université de Franche- Comté (UFC) both are, and so both can be used with eduroam. See this page for background reading.  
