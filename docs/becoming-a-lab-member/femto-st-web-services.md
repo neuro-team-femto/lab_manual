@@ -24,7 +24,7 @@ This includes:
 If you're a CNRS employee (or you have a reseda/labintel account), you have access to the following services:&#x20;
 
 - :unlock: Agate-tempo ([https://agate-tempo.cnrs.fr](https://agate-tempo.cnrs.fr/fr/)), the plateform at which you need to declare your holidays and remote-work (in advance)
-- :unlock: Ariane (https://ariane.cnrs.fr), the plateform for reporting a sick leave, and communicating documents (related to family, etc.) to the CNRS HR services. Also there you'll have access to your salary slips in electronic format.&#x20;
+- :unlock: Ariane ([https://ariane.cnrs.fr](https://ariane.cnrs.fr)), the plateform for reporting a sick leave, and communicating documents (related to family, etc.) to the CNRS HR services. Also there you'll have access to your salary slips in electronic format.&#x20;
 - :unlock: Etamine ([https://etamine-connecte.cnrs.fr/infos](https://etamine-connecte.cnrs.fr/infos)) - the entry point for declaring travel to conferences ("missions"). Missions declared in Etamine are sent for approval to our dept admins Isabelle & Estelle, and are then transfered to...
 - :unlock: Notilus ([https://esr-cnrs.notilus-inone.fr/#/Dashboard](https://esr-cnrs.notilus-inone.fr/#/Dashboard)) - the plateform for following up on upcoming, ongoing and terminated missions. Booking travel and hotels for missions can be initiated from Notilus and will connect you to...
 - :unlock: Goelett ([https://travel.goelett.com](https://travel.goelett.com)) - the plateform to book tickets and hotels with CNRS rates. You can't normally access this directly, only via notilus.&#x20;
